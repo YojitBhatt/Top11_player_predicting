@@ -1,0 +1,551 @@
+match_id,player_name,team,opposition,venue,format,role,runs_scored,balls_faced,strike_rate,fours,sixes,batting_position,not_out,overs_bowled,maidens,runs_conceded,wickets_taken,economy,no_balls,wides,catches,stumpings,runouts,direct_hit,toss_winner,bat_first,match_result,performance_score,top_performer
+4000,Mohammad Rizwan,Pakistan,New Zealand,Cape Town,T20,Allrounder,27,65,140.54,5,4,4,1,1.6,0,63,2,8.51,1,1,0,0,1,1,Pakistan,0,Win,167.26999999999998,0
+4000,Iftikhar Ahmed,Pakistan,New Zealand,Mumbai,T20,Batsman,80,55,138.66,1,6,9,1,5.3,3,45,5,9.09,1,2,0,0,1,0,Pakistan,0,Win,314.33,1
+4000,Sarfaraz Ahmed,Pakistan,New Zealand,Sydney,ODI,Wicketkeeper,5,90,153.95,8,4,5,1,0.3,4,39,2,5.0,1,0,2,1,1,1,Pakistan,1,Win,226.975,0
+4000,Imam-ul-Haq,Pakistan,New Zealand,Karachi,Test,Wicketkeeper,24,92,105.84,0,7,2,1,4.2,1,68,2,7.71,1,2,2,0,1,0,Pakistan,1,Win,166.92000000000002,0
+4000,Hasan Ali,Pakistan,New Zealand,Cape Town,ODI,Batsman,139,78,198.58,10,1,4,1,9.7,4,8,1,8.82,0,0,0,0,1,0,Pakistan,1,Win,313.29,1
+4000,Babar Azam,Pakistan,New Zealand,Sydney,ODI,Allrounder,121,57,101.53,2,9,9,1,6.3,3,55,0,3.89,2,1,0,1,1,1,Pakistan,1,Win,236.765,1
+4000,Naseem Shah,Pakistan,New Zealand,Mumbai,ODI,Wicketkeeper,14,48,91.67,4,0,8,0,6.1,1,15,3,7.53,0,0,2,1,1,0,Pakistan,0,Draw,189.835,0
+4000,Shadab Khan,Pakistan,New Zealand,Mumbai,T20,Bowler,127,82,50.47,14,6,10,1,6.2,4,11,4,3.56,0,2,0,1,1,1,New Zealand,1,Loss,327.235,1
+4000,Haris Rauf,Pakistan,New Zealand,Karachi,ODI,Bowler,129,94,150.91,14,9,4,1,1.7,3,60,4,8.54,2,0,1,0,0,1,Pakistan,1,Loss,354.455,1
+4000,Shaheen Afridi,Pakistan,New Zealand,Sydney,Test,Bowler,23,38,104.36,4,1,7,1,7.5,4,42,2,9.7,2,0,0,0,1,1,Pakistan,0,Loss,185.18,0
+4000,Fakhar Zaman,Pakistan,New Zealand,Mumbai,ODI,Batsman,30,87,68.64,7,3,7,1,4.4,0,18,5,6.91,2,1,2,1,1,1,Pakistan,0,Win,244.32,1
+4000,Trent Boult,New Zealand,Pakistan,Lords,T20,Wicketkeeper,93,17,120.67,12,5,1,0,1.5,0,49,0,5.78,2,2,1,0,1,1,Pakistan,0,Draw,183.335,0
+4000,Daryl Mitchell,New Zealand,Pakistan,Lords,ODI,Allrounder,82,31,97.56,5,0,3,1,0.5,0,21,3,7.19,1,2,1,0,0,0,New Zealand,1,Loss,215.78,0
+4000,Mitchell Santner,New Zealand,Pakistan,Sydney,T20,Wicketkeeper,55,38,114.4,13,9,10,0,0.3,3,33,2,4.07,0,0,2,1,0,0,Pakistan,1,Win,227.2,0
+4000,Glenn Phillips,New Zealand,Pakistan,Sydney,Test,Bowler,63,2,184.27,0,9,3,0,3.1,3,29,4,3.7,0,0,0,0,1,1,New Zealand,0,Draw,305.135,1
+4000,Kane Williamson,New Zealand,Pakistan,Mumbai,ODI,Wicketkeeper,45,72,105.17,6,2,4,0,8.1,3,50,4,6.26,1,1,0,1,1,1,New Zealand,1,Draw,262.58500000000004,1
+4000,Lockie Ferguson,New Zealand,Pakistan,Mumbai,T20,Batsman,144,5,88.72,11,6,5,1,2.3,4,12,5,9.14,1,2,2,0,0,0,Pakistan,0,Loss,373.36,1
+4000,Tom Latham,New Zealand,Pakistan,Mumbai,T20,Batsman,53,6,95.56,5,2,7,0,2.0,2,6,2,4.81,1,1,0,1,0,1,Pakistan,0,Draw,195.78,0
+4000,Ish Sodhi,New Zealand,Pakistan,Cape Town,T20,Wicketkeeper,141,54,141.85,13,0,2,1,7.6,0,39,3,5.44,0,2,1,1,0,0,New Zealand,1,Draw,311.925,1
+4000,Tim Southee,New Zealand,Pakistan,Cape Town,T20,Allrounder,16,49,90.32,1,3,7,1,4.9,0,61,5,6.38,2,2,0,0,0,1,New Zealand,0,Loss,196.16,0
+4000,James Neesham,New Zealand,Pakistan,Karachi,Test,Allrounder,80,45,55.36,6,8,2,0,6.7,2,31,4,8.28,2,1,0,1,0,1,New Zealand,1,Draw,252.68,1
+4000,Devon Conway,New Zealand,Pakistan,Lords,Test,Bowler,126,13,71.82,1,7,6,0,6.8,1,63,0,6.08,0,0,1,1,1,1,Pakistan,1,Draw,216.91,0
+4001,Gulsan Jha,Nepal,New Zealand,Mumbai,T20,Wicketkeeper,87,7,54.78,5,7,7,0,4.0,4,19,5,9.26,1,2,0,1,1,0,New Zealand,1,Draw,304.39,1
+4001,Kushal Malla,Nepal,New Zealand,Cape Town,ODI,Batsman,14,53,92.03,3,7,8,1,4.2,3,15,2,9.31,0,2,0,0,1,1,New Zealand,0,Loss,160.015,0
+4001,Bhim Sharki,Nepal,New Zealand,Lords,ODI,Wicketkeeper,122,49,112.77,0,1,8,1,4.6,2,69,5,4.29,0,2,1,0,1,0,New Zealand,1,Loss,343.385,1
+4001,Sompal Kami,Nepal,New Zealand,Mumbai,T20,Wicketkeeper,114,39,130.79,0,6,6,1,3.3,2,50,3,3.09,0,0,0,1,0,1,New Zealand,0,Loss,299.395,1
+4001,Aasif Sheikh,Nepal,New Zealand,Lords,T20,Wicketkeeper,7,48,119.14,3,4,5,0,6.7,2,49,2,7.19,2,1,0,1,0,1,New Zealand,0,Draw,161.57,0
+4001,Karan KC,Nepal,New Zealand,Karachi,Test,Wicketkeeper,48,38,152.14,6,1,7,0,6.2,4,32,4,3.64,2,1,2,0,1,0,Nepal,0,Loss,294.07,1
+4001,Dipendra Singh Airee,Nepal,New Zealand,Lords,ODI,Wicketkeeper,116,29,120.95,0,1,1,1,3.8,4,36,2,7.53,2,1,0,1,0,0,Nepal,1,Win,281.475,1
+4001,Lalit Rajbanshi,Nepal,New Zealand,Mumbai,ODI,Bowler,24,27,104.74,9,3,3,1,5.1,0,36,2,9.89,1,1,0,0,1,0,Nepal,1,Loss,136.37,0
+4001,Sandeep Lamichhane,Nepal,New Zealand,Sydney,ODI,Batsman,97,60,149.94,6,7,6,1,8.7,2,12,0,7.99,2,1,2,1,0,0,New Zealand,0,Loss,226.97,0
+4001,Rohit Paudel,Nepal,New Zealand,Mumbai,T20,Bowler,139,62,171.97,10,9,3,0,7.2,0,26,3,6.36,0,1,0,0,1,1,Nepal,1,Loss,319.985,1
+4001,Kushal Bhurtel,Nepal,New Zealand,Lords,ODI,Bowler,57,79,118.38,9,3,9,0,9.9,4,5,3,7.33,1,2,2,0,1,0,Nepal,0,Draw,261.19,1
+4001,Mitchell Santner,New Zealand,Nepal,Mumbai,Test,Allrounder,11,66,173.14,6,3,1,1,1.5,2,23,2,5.58,1,1,0,1,0,1,New Zealand,0,Draw,192.57,0
+4001,Tom Latham,New Zealand,Nepal,Sydney,ODI,Batsman,12,90,112.61,1,8,1,0,1.9,4,55,2,5.99,0,2,0,0,0,1,New Zealand,0,Win,168.305,0
+4001,Daryl Mitchell,New Zealand,Nepal,Mumbai,Test,Allrounder,77,80,54.29,9,6,10,1,8.1,0,20,1,7.98,1,0,1,1,0,0,New Zealand,1,Draw,154.14499999999998,0
+4001,Kane Williamson,New Zealand,Nepal,Mumbai,ODI,Allrounder,24,50,199.74,11,3,7,1,4.0,1,40,5,6.19,0,1,1,1,1,1,New Zealand,0,Loss,303.87,1
+4001,Tim Southee,New Zealand,Nepal,Cape Town,Test,Batsman,111,68,80.19,3,7,9,1,3.2,4,25,5,4.1,2,1,1,1,0,0,Nepal,0,Win,341.095,1
+4001,Devon Conway,New Zealand,Nepal,Cape Town,Test,Wicketkeeper,77,38,117.21,11,3,6,1,6.1,3,5,0,4.28,2,2,2,0,1,1,Nepal,0,Loss,205.605,0
+4001,Trent Boult,New Zealand,Nepal,Karachi,T20,Allrounder,114,12,57.44,2,9,6,0,3.5,2,59,3,9.25,0,2,0,0,1,0,New Zealand,1,Loss,247.72,0
+4001,Glenn Phillips,New Zealand,Nepal,Sydney,ODI,Wicketkeeper,73,51,125.8,7,7,8,1,4.9,0,37,3,7.26,2,2,0,1,0,0,Nepal,1,Draw,225.9,0
+4001,Ish Sodhi,New Zealand,Nepal,Karachi,Test,Batsman,123,86,56.3,7,8,7,1,9.5,0,67,3,8.78,1,1,2,0,1,0,New Zealand,1,Draw,256.15,0
+4001,Lockie Ferguson,New Zealand,Nepal,Cape Town,ODI,Wicketkeeper,102,38,121.97,9,4,9,1,8.4,3,58,2,8.93,0,2,0,1,0,1,Nepal,0,Win,267.985,1
+4001,James Neesham,New Zealand,Nepal,Sydney,T20,Batsman,141,24,108.3,9,3,7,0,6.9,2,5,1,4.08,1,2,2,0,0,1,Nepal,1,Win,270.15,1
+4002,Naseem Shah,Pakistan,Bangladesh,Cape Town,ODI,Wicketkeeper,24,86,159.34,6,2,7,0,3.3,1,53,4,7.07,0,0,2,0,0,1,Bangladesh,0,Win,243.67000000000002,0
+4002,Babar Azam,Pakistan,Bangladesh,Karachi,ODI,Wicketkeeper,71,39,128.03,2,6,8,0,1.8,2,33,5,7.0,2,1,0,0,1,0,Pakistan,1,Draw,290.015,1
+4002,Hasan Ali,Pakistan,Bangladesh,Lords,ODI,Batsman,89,81,99.01,2,3,9,0,7.5,4,42,4,3.35,2,1,1,1,1,0,Pakistan,1,Loss,313.505,1
+4002,Haris Rauf,Pakistan,Bangladesh,Cape Town,ODI,Wicketkeeper,41,51,51.35,3,4,3,1,3.0,1,44,5,5.09,2,1,0,1,0,1,Bangladesh,0,Win,226.675,0
+4002,Iftikhar Ahmed,Pakistan,Bangladesh,Lords,Test,Allrounder,110,60,164.98,4,8,7,0,7.1,0,25,0,5.29,0,2,2,0,0,0,Pakistan,1,Win,212.49,0
+4002,Shadab Khan,Pakistan,Bangladesh,Cape Town,ODI,Allrounder,25,28,130.13,5,5,4,0,1.3,1,2,5,3.5,0,1,0,1,0,1,Bangladesh,1,Draw,250.065,1
+4002,Sarfaraz Ahmed,Pakistan,Bangladesh,Sydney,T20,Batsman,145,52,95.36,5,4,1,0,0.9,0,36,3,3.73,2,0,0,0,1,0,Bangladesh,0,Draw,277.68,1
+4002,Shaheen Afridi,Pakistan,Bangladesh,Mumbai,Test,Batsman,148,23,124.19,2,6,4,0,5.8,2,38,3,6.57,2,1,1,0,1,0,Pakistan,1,Loss,325.095,1
+4002,Imam-ul-Haq,Pakistan,Bangladesh,Karachi,T20,Wicketkeeper,147,40,193.74,9,5,6,0,10.0,3,8,4,9.5,1,1,1,0,1,1,Pakistan,1,Win,403.87,1
+4002,Fakhar Zaman,Pakistan,Bangladesh,Cape Town,T20,Wicketkeeper,55,46,117.39,11,5,4,0,4.1,0,1,0,7.75,0,1,0,0,1,0,Pakistan,1,Draw,123.695,0
+4002,Mohammad Rizwan,Pakistan,Bangladesh,Cape Town,T20,Batsman,5,68,143.88,2,9,9,0,8.6,2,29,3,7.76,1,0,1,1,0,1,Pakistan,0,Win,206.94,0
+4002,Mushfiqur Rahim,Bangladesh,Pakistan,Mumbai,ODI,Wicketkeeper,49,79,188.51,10,5,7,0,8.9,2,8,4,7.16,0,1,0,0,1,1,Bangladesh,0,Loss,283.255,1
+4002,Mehidy Hasan Miraz,Bangladesh,Pakistan,Karachi,T20,Batsman,7,88,185.42,14,6,10,0,8.4,3,55,5,7.32,2,0,0,1,1,1,Bangladesh,1,Win,289.71,1
+4002,Afif Hossain,Bangladesh,Pakistan,Sydney,T20,Batsman,104,54,163.26,8,3,11,0,4.2,0,56,1,4.5,1,1,0,1,0,0,Bangladesh,1,Draw,225.63,0
+4002,Taskin Ahmed,Bangladesh,Pakistan,Lords,ODI,Wicketkeeper,68,34,104.34,9,8,7,1,3.8,3,59,3,6.79,1,0,1,1,1,1,Bangladesh,1,Win,270.17,1
+4002,Mahmudullah,Bangladesh,Pakistan,Mumbai,T20,Bowler,1,77,113.4,6,9,8,1,7.0,0,26,4,3.51,2,2,2,1,0,0,Bangladesh,1,Draw,192.7,0
+4002,Nasum Ahmed,Bangladesh,Pakistan,Lords,Test,Allrounder,39,7,139.67,8,6,8,1,9.2,1,61,0,8.93,1,1,1,1,0,1,Bangladesh,1,Draw,153.83499999999998,0
+4002,Litton Das,Bangladesh,Pakistan,Mumbai,ODI,Bowler,55,12,54.87,6,8,4,1,0.2,2,0,0,9.87,1,0,2,0,1,1,Pakistan,0,Win,142.435,0
+4002,Mustafizur Rahman,Bangladesh,Pakistan,Karachi,T20,Allrounder,90,50,184.68,7,8,4,1,0.1,1,64,1,6.56,1,1,2,1,1,0,Pakistan,1,Draw,262.34000000000003,1
+4002,Najmul Hossain Shanto,Bangladesh,Pakistan,Cape Town,Test,Bowler,39,65,76.56,3,6,9,1,8.5,3,22,2,8.59,0,2,0,1,1,0,Bangladesh,1,Draw,182.28,0
+4002,Shakib Al Hasan,Bangladesh,Pakistan,Mumbai,Test,Allrounder,16,37,109.09,10,3,1,1,7.5,4,69,3,8.82,0,0,0,1,1,1,Pakistan,1,Loss,220.54500000000002,0
+4002,Tamim Iqbal,Bangladesh,Pakistan,Cape Town,ODI,Wicketkeeper,144,30,54.59,12,2,5,0,7.1,4,52,0,7.94,0,0,2,1,0,0,Bangladesh,0,Win,246.29500000000002,1
+4003,Charith Asalanka,Sri Lanka,Afghanistan,Cape Town,ODI,Batsman,120,70,122.37,10,8,6,0,4.3,3,47,5,7.68,0,0,1,1,0,1,Sri Lanka,1,Win,371.185,1
+4003,Wanindu Hasaranga,Sri Lanka,Afghanistan,Karachi,ODI,Allrounder,130,9,156.01,8,5,10,1,2.2,3,58,4,9.04,0,2,0,0,1,0,Sri Lanka,1,Draw,348.005,1
+4003,Kasun Rajitha,Sri Lanka,Afghanistan,Mumbai,T20,Wicketkeeper,128,65,150.72,5,6,5,0,6.4,4,69,2,9.6,2,2,1,0,1,0,Afghanistan,1,Loss,313.36,1
+4003,Dimuth Karunaratne,Sri Lanka,Afghanistan,Mumbai,Test,Batsman,66,66,166.49,10,9,9,0,2.6,4,54,2,7.45,2,0,0,1,1,1,Sri Lanka,1,Loss,274.245,1
+4003,Angelo Mathews,Sri Lanka,Afghanistan,Lords,T20,Allrounder,3,18,111.2,3,9,9,1,6.6,0,67,0,9.47,0,1,0,0,1,0,Afghanistan,0,Draw,68.6,0
+4003,Kusal Mendis,Sri Lanka,Afghanistan,Mumbai,T20,Wicketkeeper,2,37,88.31,13,8,7,1,4.0,3,33,0,8.59,0,2,0,1,1,1,Sri Lanka,1,Draw,111.155,0
+4003,Dasun Shanaka,Sri Lanka,Afghanistan,Karachi,T20,Allrounder,134,50,151.26,14,1,9,1,6.3,4,63,4,6.9,0,1,2,0,1,1,Sri Lanka,1,Win,389.63,1
+4003,Dhananjaya de Silva,Sri Lanka,Afghanistan,Karachi,Test,Bowler,16,74,62.87,8,1,3,1,7.5,1,57,1,7.36,0,2,1,1,0,0,Afghanistan,0,Draw,107.435,0
+4003,Lahiru Kumara,Sri Lanka,Afghanistan,Karachi,Test,Batsman,108,44,110.77,13,3,3,1,0.8,3,37,3,6.6,2,2,0,1,0,1,Sri Lanka,1,Win,293.385,1
+4003,Maheesh Theekshana,Sri Lanka,Afghanistan,Lords,Test,Bowler,97,30,176.42,7,0,9,0,4.9,1,18,0,8.6,2,0,1,0,1,1,Afghanistan,1,Loss,225.20999999999998,0
+4003,Pathum Nissanka,Sri Lanka,Afghanistan,Sydney,Test,Allrounder,3,5,74.06,6,7,5,0,1.5,2,12,5,8.65,0,2,1,1,0,1,Sri Lanka,1,Loss,220.03,0
+4003,Azmatullah Omarzai,Afghanistan,Sri Lanka,Mumbai,ODI,Bowler,9,71,62.22,11,1,2,0,0.3,4,19,0,3.75,2,1,0,1,0,0,Afghanistan,1,Win,95.11,0
+4003,Naveen-ul-Haq,Afghanistan,Sri Lanka,Lords,ODI,Batsman,54,67,81.33,10,6,2,0,5.9,1,35,4,7.36,1,0,2,0,1,0,Sri Lanka,0,Loss,234.665,0
+4003,Rashid Khan,Afghanistan,Sri Lanka,Karachi,ODI,Bowler,10,50,102.75,9,8,4,1,0.3,2,0,2,4.14,1,1,1,1,1,1,Sri Lanka,0,Draw,176.375,0
+4003,Najibullah Zadran,Afghanistan,Sri Lanka,Lords,ODI,Batsman,132,20,184.56,10,9,2,1,0.9,3,21,2,4.73,1,1,1,0,1,1,Sri Lanka,1,Loss,334.28,1
+4003,Fazalhaq Farooqi,Afghanistan,Sri Lanka,Cape Town,T20,Batsman,69,9,134.17,11,9,8,1,0.4,2,57,0,4.78,1,0,2,0,1,0,Afghanistan,0,Win,186.08499999999998,0
+4003,Rahmanullah Gurbaz,Afghanistan,Sri Lanka,Mumbai,Test,Wicketkeeper,104,7,103.92,14,2,5,0,8.9,2,56,3,6.83,2,2,2,0,0,0,Afghanistan,1,Draw,270.96000000000004,1
+4003,Noor Ahmad,Afghanistan,Sri Lanka,Cape Town,Test,Batsman,86,67,151.38,1,8,11,1,2.4,1,9,4,9.47,0,1,0,0,0,1,Sri Lanka,0,Draw,281.69,1
+4003,Ibrahim Zadran,Afghanistan,Sri Lanka,Cape Town,Test,Batsman,131,67,119.05,1,3,1,0,4.7,2,43,0,3.02,0,1,1,0,1,1,Afghanistan,1,Loss,240.525,0
+4003,Mujeeb Ur Rahman,Afghanistan,Sri Lanka,Sydney,ODI,Wicketkeeper,51,63,68.35,8,1,7,0,3.1,4,64,5,5.84,0,1,0,0,1,0,Sri Lanka,0,Loss,260.175,0
+4003,Hashmatullah Shahidi,Afghanistan,Sri Lanka,Karachi,Test,Wicketkeeper,126,74,117.4,0,6,8,0,3.7,0,21,4,7.56,1,0,0,0,0,1,Sri Lanka,1,Draw,294.7,1
+4003,Mohammad Nabi,Afghanistan,Sri Lanka,Mumbai,ODI,Batsman,112,32,103.61,11,2,2,1,4.4,3,33,3,6.83,2,1,0,0,0,1,Afghanistan,0,Win,278.805,1
+4004,Chris Woakes,England,Sri Lanka,Lords,Test,Wicketkeeper,8,87,116.0,4,7,3,1,1.1,0,6,0,8.14,1,1,2,0,0,0,Sri Lanka,1,Loss,86.0,0
+4004,Jonny Bairstow,England,Sri Lanka,Lords,Test,Batsman,7,69,159.7,14,3,4,1,7.7,0,30,5,5.23,0,2,2,0,1,1,Sri Lanka,1,Win,251.85,0
+4004,Mark Wood,England,Sri Lanka,Cape Town,Test,Allrounder,79,10,179.11,2,4,9,1,8.8,3,56,4,6.08,0,2,2,0,1,0,Sri Lanka,0,Draw,328.555,1
+4004,Jos Buttler,England,Sri Lanka,Karachi,Test,Bowler,125,6,146.53,11,9,6,0,7.8,2,2,1,7.75,1,2,0,1,1,0,England,1,Loss,268.265,1
+4004,Jofra Archer,England,Sri Lanka,Lords,ODI,Batsman,86,70,191.3,0,4,7,1,1.5,0,43,2,9.04,2,0,0,1,1,0,Sri Lanka,1,Draw,256.65,0
+4004,Sam Curran,England,Sri Lanka,Karachi,Test,Bowler,113,19,174.81,14,4,11,0,1.8,4,67,0,3.5,2,2,1,1,0,1,Sri Lanka,1,Loss,275.405,1
+4004,Joe Root,England,Sri Lanka,Lords,Test,Allrounder,85,14,59.25,4,2,10,0,6.2,3,9,5,9.58,0,2,2,1,1,0,England,0,Draw,314.625,1
+4004,Adil Rashid,England,Sri Lanka,Lords,T20,Bowler,77,19,79.92,3,4,7,1,3.8,2,47,5,9.43,2,0,1,1,1,1,Sri Lanka,0,Win,306.96000000000004,1
+4004,Ben Stokes,England,Sri Lanka,Mumbai,Test,Wicketkeeper,135,1,78.3,14,3,5,0,7.8,1,27,4,8.74,0,1,1,1,0,0,England,1,Draw,309.15,1
+4004,Moeen Ali,England,Sri Lanka,Sydney,T20,Allrounder,92,28,107.57,4,3,2,1,2.8,4,26,0,6.03,0,1,1,0,0,0,England,0,Loss,195.785,0
+4004,Dawid Malan,England,Sri Lanka,Karachi,T20,Allrounder,121,90,124.04,11,7,7,1,3.0,2,28,1,5.09,0,2,0,0,0,0,England,0,Draw,228.02,0
+4004,Kasun Rajitha,Sri Lanka,England,Lords,T20,Batsman,100,95,119.41,5,1,3,1,2.3,4,8,3,5.4,2,0,0,1,0,0,Sri Lanka,0,Draw,289.705,1
+4004,Dasun Shanaka,Sri Lanka,England,Mumbai,T20,Bowler,45,70,139.35,10,8,5,0,9.0,4,0,0,5.64,0,0,1,0,1,0,England,0,Draw,174.675,0
+4004,Maheesh Theekshana,Sri Lanka,England,Mumbai,ODI,Wicketkeeper,78,36,184.24,10,4,6,1,2.6,4,15,3,7.65,2,2,2,0,0,0,Sri Lanka,0,Draw,305.12,1
+4004,Kusal Mendis,Sri Lanka,England,Lords,ODI,Allrounder,6,62,60.37,1,2,4,1,0.1,1,57,3,5.4,2,1,2,1,0,0,Sri Lanka,1,Win,156.185,0
+4004,Dhananjaya de Silva,Sri Lanka,England,Sydney,ODI,Bowler,42,82,56.35,14,8,9,0,3.1,0,1,3,3.81,1,1,2,1,1,1,England,0,Loss,200.175,0
+4004,Wanindu Hasaranga,Sri Lanka,England,Karachi,Test,Allrounder,48,8,198.15,13,4,7,1,7.4,4,15,1,4.0,0,1,2,0,1,0,England,0,Win,242.075,0
+4004,Dimuth Karunaratne,Sri Lanka,England,Karachi,ODI,Wicketkeeper,90,81,165.82,0,1,5,0,9.5,1,54,2,3.8,1,1,1,1,0,0,England,1,Win,257.90999999999997,1
+4004,Angelo Mathews,Sri Lanka,England,Sydney,Test,Bowler,131,61,100.97,11,1,10,1,1.6,1,58,2,9.42,1,1,2,1,0,0,England,0,Draw,276.485,1
+4004,Charith Asalanka,Sri Lanka,England,Lords,Test,Batsman,11,30,176.37,12,5,5,0,1.9,3,63,2,7.58,2,2,2,0,0,0,Sri Lanka,1,Loss,199.185,0
+4004,Lahiru Kumara,Sri Lanka,England,Mumbai,T20,Bowler,57,82,52.62,10,5,3,0,9.4,0,47,0,5.45,1,1,1,1,1,0,England,1,Win,118.31,0
+4004,Pathum Nissanka,Sri Lanka,England,Cape Town,ODI,Wicketkeeper,141,46,182.45,11,3,2,1,3.8,2,16,1,7.24,2,1,0,0,1,0,England,1,Win,287.225,1
+4005,Mushfiqur Rahim,Bangladesh,Pakistan,Mumbai,ODI,Bowler,30,66,51.64,11,9,6,0,2.5,1,2,3,6.14,0,2,1,0,1,0,Pakistan,1,Draw,160.82,0
+4005,Mustafizur Rahman,Bangladesh,Pakistan,Sydney,Test,Wicketkeeper,36,58,78.78,13,8,7,0,4.0,1,67,5,3.51,0,0,0,0,1,0,Pakistan,0,Win,220.39,1
+4005,Mehidy Hasan Miraz,Bangladesh,Pakistan,Mumbai,T20,Batsman,106,99,163.68,4,2,5,1,2.6,2,51,5,8.82,2,0,0,1,0,1,Bangladesh,0,Win,357.84000000000003,1
+4005,Afif Hossain,Bangladesh,Pakistan,Lords,T20,Wicketkeeper,59,84,171.23,12,1,1,0,6.3,1,47,3,9.31,2,1,2,0,1,0,Bangladesh,0,Win,259.615,1
+4005,Najmul Hossain Shanto,Bangladesh,Pakistan,Mumbai,Test,Bowler,61,88,174.75,12,6,9,1,0.2,4,49,4,4.87,2,2,0,0,1,1,Pakistan,1,Loss,308.375,1
+4005,Mahmudullah,Bangladesh,Pakistan,Karachi,Test,Batsman,76,95,71.39,6,8,9,1,6.7,0,54,1,4.49,2,1,2,1,0,0,Bangladesh,0,Win,171.695,0
+4005,Tamim Iqbal,Bangladesh,Pakistan,Cape Town,ODI,Allrounder,41,81,158.92,5,0,4,1,2.6,4,55,3,5.82,2,1,1,0,1,0,Pakistan,1,Win,255.45999999999998,1
+4005,Taskin Ahmed,Bangladesh,Pakistan,Sydney,T20,Allrounder,20,43,131.9,11,2,1,1,2.7,4,0,0,9.19,2,2,1,1,1,1,Pakistan,1,Loss,170.95,0
+4005,Shakib Al Hasan,Bangladesh,Pakistan,Mumbai,ODI,Allrounder,22,43,50.53,1,5,7,0,4.0,3,66,3,8.6,0,0,1,1,0,0,Pakistan,1,Draw,177.265,0
+4005,Litton Das,Bangladesh,Pakistan,Karachi,T20,Wicketkeeper,49,65,105.19,13,7,11,1,5.8,0,43,1,3.59,0,1,0,1,0,1,Pakistan,1,Loss,151.595,0
+4005,Nasum Ahmed,Bangladesh,Pakistan,Karachi,ODI,Wicketkeeper,23,88,100.86,8,3,7,1,0.7,3,0,3,5.97,0,2,1,1,0,0,Bangladesh,1,Draw,203.43,0
+4005,Iftikhar Ahmed,Pakistan,Bangladesh,Sydney,ODI,Allrounder,8,45,119.58,6,8,5,1,3.4,3,20,0,5.36,0,1,2,1,1,1,Pakistan,0,Win,152.79,0
+4005,Fakhar Zaman,Pakistan,Bangladesh,Cape Town,T20,Wicketkeeper,41,3,139.08,6,4,10,0,4.4,2,38,3,8.47,2,1,0,0,1,1,Pakistan,1,Loss,225.54000000000002,1
+4005,Naseem Shah,Pakistan,Bangladesh,Cape Town,ODI,Wicketkeeper,13,35,66.35,13,9,7,0,7.2,2,51,5,3.31,2,0,0,0,1,1,Bangladesh,0,Win,211.175,0
+4005,Mohammad Rizwan,Pakistan,Bangladesh,Lords,Test,Wicketkeeper,68,64,169.55,1,9,1,1,2.2,4,15,0,9.65,1,2,0,1,0,0,Bangladesh,0,Draw,207.775,0
+4005,Shaheen Afridi,Pakistan,Bangladesh,Sydney,T20,Bowler,85,31,55.01,4,2,6,1,2.4,4,61,0,5.54,1,2,1,1,0,1,Pakistan,1,Draw,187.505,0
+4005,Haris Rauf,Pakistan,Bangladesh,Lords,ODI,Bowler,86,40,172.87,8,3,8,0,6.0,4,9,1,6.4,1,1,2,1,0,1,Bangladesh,0,Loss,282.435,1
+4005,Babar Azam,Pakistan,Bangladesh,Cape Town,T20,Bowler,124,76,154.16,11,9,1,0,9.9,2,35,0,3.12,2,0,1,0,1,0,Pakistan,0,Loss,241.07999999999998,1
+4005,Hasan Ali,Pakistan,Bangladesh,Sydney,ODI,Batsman,92,68,114.4,12,0,10,0,3.7,3,30,4,9.24,1,0,1,0,1,1,Pakistan,1,Draw,309.2,1
+4005,Imam-ul-Haq,Pakistan,Bangladesh,Sydney,ODI,Batsman,51,81,153.22,12,0,9,0,2.3,0,49,1,4.54,2,2,0,0,1,1,Pakistan,0,Win,172.61,0
+4005,Shadab Khan,Pakistan,Bangladesh,Mumbai,T20,Wicketkeeper,94,9,162.29,4,8,6,1,7.6,0,61,3,8.14,0,0,1,1,0,0,Pakistan,0,Win,275.145,1
+4005,Sarfaraz Ahmed,Pakistan,Bangladesh,Sydney,ODI,Bowler,30,19,189.08,10,4,3,0,9.8,1,14,5,7.45,1,2,0,1,1,1,Bangladesh,0,Win,294.54,1
+4006,Zeeshan Maqsood,Oman,Netherlands,Sydney,ODI,Batsman,13,34,111.33,8,0,9,0,1.3,4,36,3,4.15,1,0,2,1,1,1,Oman,1,Win,238.665,0
+4006,Aqib Ilyas,Oman,Netherlands,Mumbai,ODI,Batsman,26,31,134.28,0,5,11,1,5.0,4,17,4,8.64,0,1,0,0,1,0,Oman,1,Draw,243.14,0
+4006,Bilal Khan,Oman,Netherlands,Sydney,ODI,Allrounder,48,65,96.58,3,0,8,0,1.6,1,47,0,6.73,0,0,0,0,0,0,Netherlands,0,Loss,106.28999999999999,0
+4006,Khawar Ali,Oman,Netherlands,Sydney,Test,Bowler,53,47,186.46,8,3,7,1,8.2,2,50,0,7.44,0,1,2,0,1,0,Oman,0,Win,196.23000000000002,0
+4006,Mohammad Nadeem,Oman,Netherlands,Karachi,ODI,Bowler,79,15,194.68,1,2,8,0,3.1,4,47,4,9.01,2,1,0,0,0,1,Netherlands,1,Win,326.34000000000003,1
+4006,Fayyaz Butt,Oman,Netherlands,Cape Town,ODI,Allrounder,107,33,160.9,13,8,1,0,6.7,2,58,2,6.15,2,2,1,1,1,0,Netherlands,1,Win,292.45,1
+4006,Kaleemullah,Oman,Netherlands,Mumbai,T20,Wicketkeeper,93,40,106.02,7,3,6,0,5.3,2,28,3,7.92,1,2,2,0,1,0,Oman,1,Draw,271.01,1
+4006,Jatinder Singh,Oman,Netherlands,Sydney,ODI,Batsman,65,77,135.46,4,3,4,0,9.2,2,35,4,8.64,2,1,2,1,0,1,Netherlands,0,Draw,297.73,1
+4006,Naseem Khushi,Oman,Netherlands,Mumbai,T20,Bowler,57,30,170.18,9,1,10,0,7.4,4,64,5,3.65,0,1,0,1,0,0,Oman,0,Draw,322.09000000000003,1
+4006,Shoaib Khan,Oman,Netherlands,Sydney,Test,Allrounder,39,84,54.59,5,8,8,0,3.7,4,51,1,3.84,1,2,1,1,1,0,Netherlands,0,Win,166.29500000000002,0
+4006,Ayaan Khan,Oman,Netherlands,Mumbai,Test,Bowler,125,32,190.77,7,7,11,1,7.9,4,20,5,8.01,2,0,0,1,1,1,Oman,0,Draw,420.385,1
+4006,Vikramjit Singh,Netherlands,Oman,Sydney,Test,Allrounder,128,97,114.0,0,1,1,1,4.9,3,3,4,6.3,1,2,0,0,0,0,Netherlands,1,Win,315.0,1
+4006,Roelof van der Merwe,Netherlands,Oman,Cape Town,ODI,Bowler,105,34,139.96,7,2,9,0,8.0,4,59,4,3.47,2,2,1,0,1,0,Netherlands,1,Win,334.98,1
+4006,Max O'Dowd,Netherlands,Oman,Mumbai,Test,Allrounder,12,44,110.3,2,2,3,1,7.3,4,29,5,9.49,0,2,0,1,1,1,Netherlands,1,Draw,267.15,1
+4006,Shariz Ahmad,Netherlands,Oman,Lords,Test,Wicketkeeper,47,63,86.7,1,5,7,0,1.0,3,12,1,6.15,1,2,2,1,1,0,Oman,0,Win,190.35,0
+4006,Aryan Dutt,Netherlands,Oman,Cape Town,T20,Wicketkeeper,6,13,108.21,4,3,10,1,7.0,1,25,5,4.94,2,0,0,0,1,1,Oman,1,Draw,215.105,0
+4006,Paul van Meekeren,Netherlands,Oman,Lords,T20,Bowler,104,40,64.76,13,7,5,1,9.9,4,42,5,7.86,1,2,1,0,1,1,Oman,0,Draw,331.38,1
+4006,Bas de Leede,Netherlands,Oman,Cape Town,ODI,Bowler,65,76,195.17,4,6,1,1,9.0,4,43,3,3.7,0,0,1,0,0,1,Oman,1,Draw,297.585,1
+4006,Logan van Beek,Netherlands,Oman,Lords,Test,Bowler,24,4,176.23,0,1,6,0,9.2,4,19,2,3.75,0,0,2,1,0,0,Oman,0,Draw,237.115,0
+4006,Scott Edwards,Netherlands,Oman,Cape Town,Test,Batsman,3,5,152.72,14,1,6,1,0.3,1,29,5,5.22,1,2,2,0,0,0,Oman,1,Draw,234.36,0
+4006,Colin Ackermann,Netherlands,Oman,Karachi,Test,Bowler,120,98,128.88,14,2,11,0,3.3,1,17,0,4.84,0,2,2,0,1,1,Netherlands,1,Loss,234.44,0
+4006,Teja Nidamanuru,Netherlands,Oman,Mumbai,Test,Allrounder,39,63,136.54,14,4,11,1,0.6,3,65,2,7.87,1,2,0,1,1,0,Oman,1,Draw,212.26999999999998,0
+4007,Rahmanullah Gurbaz,Afghanistan,Pakistan,Sydney,Test,Allrounder,36,27,57.32,10,2,7,1,2.0,4,38,2,6.17,2,1,2,1,0,1,Pakistan,0,Win,199.66,0
+4007,Rashid Khan,Afghanistan,Pakistan,Cape Town,T20,Bowler,73,63,91.66,1,2,7,1,7.6,0,45,5,8.68,0,1,2,1,1,1,Pakistan,1,Win,298.83,1
+4007,Azmatullah Omarzai,Afghanistan,Pakistan,Mumbai,ODI,Bowler,72,51,54.77,10,2,2,1,8.6,0,5,1,3.48,1,2,2,0,0,0,Afghanistan,0,Loss,144.385,0
+4007,Najibullah Zadran,Afghanistan,Pakistan,Cape Town,Test,Bowler,103,73,150.67,5,9,1,0,5.5,1,23,1,8.65,2,0,0,0,1,0,Pakistan,1,Win,223.33499999999998,0
+4007,Noor Ahmad,Afghanistan,Pakistan,Karachi,T20,Batsman,8,6,165.88,9,6,3,1,8.6,4,24,2,9.11,1,2,0,1,1,1,Pakistan,0,Loss,215.94,0
+4007,Hashmatullah Shahidi,Afghanistan,Pakistan,Mumbai,ODI,Wicketkeeper,135,66,95.27,11,1,4,1,3.0,4,41,0,9.68,1,2,2,1,0,1,Pakistan,0,Loss,267.635,1
+4007,Mohammad Nabi,Afghanistan,Pakistan,Karachi,T20,Allrounder,44,74,120.96,10,9,11,1,3.5,4,61,0,9.82,1,2,1,0,0,0,Pakistan,0,Loss,154.48,0
+4007,Ibrahim Zadran,Afghanistan,Pakistan,Sydney,Test,Wicketkeeper,21,68,97.66,1,7,1,0,8.4,2,61,3,7.26,0,1,2,0,0,1,Pakistan,1,Loss,194.82999999999998,0
+4007,Fazalhaq Farooqi,Afghanistan,Pakistan,Lords,T20,Allrounder,57,21,81.36,2,4,9,1,9.6,0,31,5,6.01,0,2,2,0,0,1,Afghanistan,0,Win,252.68,1
+4007,Mujeeb Ur Rahman,Afghanistan,Pakistan,Cape Town,T20,Batsman,27,79,127.91,14,1,6,1,5.8,1,32,2,4.73,1,0,0,1,1,1,Pakistan,0,Win,185.95499999999998,0
+4007,Naveen-ul-Haq,Afghanistan,Pakistan,Cape Town,ODI,Allrounder,37,50,104.76,7,7,9,1,1.8,3,54,0,3.74,0,1,1,0,0,1,Afghanistan,0,Win,139.38,0
+4007,Sarfaraz Ahmed,Pakistan,Afghanistan,Mumbai,T20,Allrounder,66,19,188.57,6,0,7,1,0.6,4,56,1,4.8,1,0,0,1,1,1,Pakistan,1,Win,260.28499999999997,1
+4007,Shadab Khan,Pakistan,Afghanistan,Lords,T20,Wicketkeeper,127,45,151.93,7,7,1,0,1.3,3,8,1,9.26,2,0,2,0,1,1,Afghanistan,0,Draw,297.96500000000003,1
+4007,Shaheen Afridi,Pakistan,Afghanistan,Mumbai,ODI,Batsman,55,73,123.76,13,1,10,0,6.8,0,37,5,4.18,1,1,0,1,1,0,Pakistan,0,Draw,266.88,1
+4007,Imam-ul-Haq,Pakistan,Afghanistan,Cape Town,T20,Wicketkeeper,111,8,119.99,7,0,9,1,3.6,4,53,0,6.31,1,1,1,0,0,1,Pakistan,1,Loss,230.995,1
+4007,Naseem Shah,Pakistan,Afghanistan,Mumbai,ODI,Bowler,6,16,178.34,8,8,4,0,1.1,0,38,0,3.06,2,0,2,0,0,0,Afghanistan,0,Win,115.17,0
+4007,Babar Azam,Pakistan,Afghanistan,Sydney,ODI,Batsman,32,48,98.4,5,3,7,0,8.2,3,51,4,5.6,0,1,1,0,1,0,Pakistan,1,Loss,231.2,1
+4007,Hasan Ali,Pakistan,Afghanistan,Lords,Test,Allrounder,85,26,61.65,4,3,11,1,3.9,0,23,0,7.7,2,2,1,0,0,1,Pakistan,1,Loss,135.825,0
+4007,Mohammad Rizwan,Pakistan,Afghanistan,Cape Town,Test,Bowler,3,64,164.6,8,5,3,0,4.3,1,66,1,7.91,2,1,2,0,1,1,Pakistan,0,Draw,160.3,0
+4007,Haris Rauf,Pakistan,Afghanistan,Mumbai,ODI,Bowler,47,30,101.68,10,5,2,0,5.1,0,67,4,8.04,1,1,2,1,1,1,Afghanistan,1,Win,252.84,1
+4007,Iftikhar Ahmed,Pakistan,Afghanistan,Cape Town,ODI,Allrounder,143,79,51.86,6,9,5,0,9.7,0,7,4,3.98,2,1,2,1,0,1,Pakistan,1,Win,313.93,1
+4007,Fakhar Zaman,Pakistan,Afghanistan,Karachi,Test,Wicketkeeper,86,97,197.85,1,5,1,0,6.9,0,62,1,8.55,2,0,0,1,0,0,Afghanistan,0,Win,224.925,1
+4008,Mitchell Starc,Australia,England,Cape Town,Test,Allrounder,58,33,73.39,11,4,9,1,1.9,2,18,5,6.83,1,2,2,1,1,0,Australia,1,Loss,284.695,1
+4008,Glenn Maxwell,Australia,England,Cape Town,Test,Wicketkeeper,104,8,167.49,10,8,4,1,3.3,0,14,1,8.81,0,0,0,0,1,0,England,0,Win,222.745,0
+4008,Josh Hazlewood,Australia,England,Lords,Test,Wicketkeeper,124,35,105.5,0,8,10,1,8.6,0,20,1,7.02,2,1,1,1,1,0,Australia,1,Win,236.75,0
+4008,Marnus Labuschagne,Australia,England,Lords,T20,Bowler,64,28,181.82,7,0,10,0,9.4,0,40,4,7.1,0,0,2,1,1,1,England,0,Win,309.90999999999997,1
+4008,David Warner,Australia,England,Karachi,ODI,Bowler,34,65,95.58,1,3,3,0,5.8,2,38,4,3.86,2,2,1,0,1,1,Australia,0,Draw,231.79,0
+4008,Alex Carey,Australia,England,Karachi,ODI,Batsman,42,34,135.97,0,1,9,0,4.3,0,23,4,4.86,1,0,1,0,1,0,England,0,Loss,229.985,0
+4008,Marcus Stoinis,Australia,England,Karachi,T20,Wicketkeeper,125,11,147.77,6,1,5,1,4.2,0,46,3,9.68,2,1,1,1,0,1,Australia,1,Loss,308.885,1
+4008,Cameron Green,Australia,England,Lords,ODI,Batsman,131,23,73.05,14,8,10,1,5.1,3,55,1,6.23,2,1,1,1,0,1,Australia,1,Draw,257.525,1
+4008,Pat Cummins,Australia,England,Sydney,ODI,Allrounder,19,36,83.95,14,1,3,0,1.7,4,55,5,8.47,2,1,1,1,0,0,Australia,0,Draw,250.975,1
+4008,Steve Smith,Australia,England,Lords,ODI,Bowler,93,59,80.29,14,1,9,0,5.5,0,40,2,5.62,2,2,1,0,1,1,Australia,1,Loss,213.145,0
+4008,Adam Zampa,Australia,England,Cape Town,Test,Bowler,35,20,160.82,7,6,2,0,8.4,4,68,1,8.63,1,1,1,1,1,0,England,1,Loss,215.41,0
+4008,Moeen Ali,England,Australia,Cape Town,ODI,Batsman,83,25,131.31,11,6,5,0,7.1,2,60,5,4.41,2,1,2,1,0,0,England,0,Win,328.655,1
+4008,Jonny Bairstow,England,Australia,Sydney,ODI,Batsman,138,78,167.44,1,4,7,0,6.0,4,4,3,3.11,1,2,2,1,0,0,England,1,Draw,371.72,1
+4008,Jos Buttler,England,Australia,Lords,ODI,Bowler,104,68,193.2,12,9,11,1,4.0,3,44,4,6.76,0,2,0,0,0,0,England,1,Loss,330.6,1
+4008,Chris Woakes,England,Australia,Karachi,Test,Bowler,123,32,94.44,9,4,5,0,4.7,3,59,0,6.68,2,0,2,1,1,1,England,0,Win,255.22,1
+4008,Joe Root,England,Australia,Sydney,ODI,Batsman,124,11,94.08,2,1,6,0,4.1,0,2,2,5.7,1,1,1,0,0,0,England,1,Loss,231.04,0
+4008,Adil Rashid,England,Australia,Sydney,ODI,Allrounder,141,57,132.14,7,7,3,1,5.9,0,44,4,6.79,2,1,0,0,0,1,Australia,0,Draw,317.07,1
+4008,Ben Stokes,England,Australia,Cape Town,ODI,Batsman,2,96,145.18,13,7,3,1,6.7,4,50,1,5.74,2,1,1,1,1,0,England,0,Loss,174.59,0
+4008,Jofra Archer,England,Australia,Mumbai,T20,Allrounder,47,80,132.83,11,0,8,0,4.8,3,3,1,5.7,2,0,0,0,1,1,England,1,Draw,188.41500000000002,0
+4008,Dawid Malan,England,Australia,Mumbai,Test,Bowler,42,3,55.25,7,5,9,1,9.1,4,39,5,8.78,0,2,0,1,1,1,Australia,1,Win,269.625,1
+4008,Mark Wood,England,Australia,Cape Town,ODI,Bowler,147,56,80.26,9,3,6,0,3.6,0,68,0,3.55,2,1,2,1,0,1,Australia,1,Draw,232.13,0
+4008,Sam Curran,England,Australia,Mumbai,Test,Allrounder,36,94,76.09,8,7,7,0,7.5,1,41,1,4.91,0,1,0,0,0,0,England,1,Loss,109.045,0
+4009,Marco Jansen,South Africa,Afghanistan,Lords,T20,Bowler,63,26,109.19,8,6,8,0,4.6,1,34,3,8.15,0,2,1,0,1,1,South Africa,0,Draw,232.595,1
+4009,Lungi Ngidi,South Africa,Afghanistan,Sydney,ODI,Bowler,135,96,130.31,5,3,6,0,8.6,4,30,4,7.22,2,1,0,0,1,1,Afghanistan,1,Draw,360.155,1
+4009,Temba Bavuma,South Africa,Afghanistan,Karachi,T20,Allrounder,109,72,161.82,9,2,7,0,2.1,0,67,5,7.48,1,2,1,0,1,1,South Africa,0,Loss,344.90999999999997,1
+4009,Aiden Markram,South Africa,Afghanistan,Sydney,ODI,Batsman,8,34,67.76,14,3,8,1,2.8,2,15,2,8.26,0,1,1,1,0,1,South Africa,0,Loss,146.88,0
+4009,Heinrich Klaasen,South Africa,Afghanistan,Sydney,T20,Bowler,2,91,118.55,13,5,7,1,4.4,4,50,4,8.21,2,1,0,0,0,0,South Africa,1,Win,201.275,0
+4009,David Miller,South Africa,Afghanistan,Sydney,Test,Wicketkeeper,30,3,160.16,9,1,1,1,3.3,2,23,2,6.92,2,1,0,0,1,1,Afghanistan,0,Loss,200.07999999999998,0
+4009,Rassie van der Dussen,South Africa,Afghanistan,Cape Town,ODI,Bowler,14,85,188.48,10,7,7,1,5.6,0,57,0,9.26,1,1,1,0,1,1,South Africa,0,Draw,138.24,0
+4009,Keshav Maharaj,South Africa,Afghanistan,Mumbai,ODI,Batsman,94,89,70.56,3,2,7,0,6.6,0,52,3,7.69,0,1,0,0,1,0,Afghanistan,0,Win,214.28,0
+4009,Anrich Nortje,South Africa,Afghanistan,Sydney,ODI,Wicketkeeper,68,53,115.0,3,7,3,1,2.6,0,42,0,7.28,0,1,1,1,0,0,Afghanistan,1,Loss,150.5,0
+4009,Quinton de Kock,South Africa,Afghanistan,Cape Town,Test,Allrounder,68,30,164.35,4,7,10,1,9.0,3,22,3,3.13,0,2,0,0,0,1,South Africa,0,Draw,265.175,1
+4009,Kagiso Rabada,South Africa,Afghanistan,Mumbai,T20,Batsman,49,34,93.91,0,5,5,1,9.6,0,50,5,8.77,2,2,2,1,0,1,South Africa,0,Win,265.955,1
+4009,Fazalhaq Farooqi,Afghanistan,South Africa,Karachi,ODI,Allrounder,16,45,161.63,9,7,6,0,5.9,4,53,2,7.18,0,1,2,0,1,0,South Africa,0,Win,216.815,1
+4009,Rashid Khan,Afghanistan,South Africa,Lords,Test,Allrounder,35,5,197.36,3,0,6,0,4.1,0,43,0,9.99,1,1,1,1,1,1,South Africa,1,Draw,178.68,0
+4009,Najibullah Zadran,Afghanistan,South Africa,Karachi,T20,Allrounder,108,83,106.0,14,3,3,1,9.2,1,26,2,6.21,1,1,0,0,0,0,South Africa,1,Draw,221.0,1
+4009,Noor Ahmad,Afghanistan,South Africa,Cape Town,Test,Wicketkeeper,47,72,91.77,0,6,5,0,0.8,0,6,3,3.89,2,2,1,0,1,0,Afghanistan,0,Draw,187.885,0
+4009,Mohammad Nabi,Afghanistan,South Africa,Mumbai,ODI,Allrounder,90,81,82.62,5,7,5,1,4.0,3,7,4,8.11,0,2,2,0,0,1,South Africa,0,Win,291.31,1
+4009,Hashmatullah Shahidi,Afghanistan,South Africa,Mumbai,ODI,Batsman,96,33,61.3,11,4,1,1,6.7,1,3,1,9.07,2,0,1,0,1,0,South Africa,1,Win,181.65,0
+4009,Mujeeb Ur Rahman,Afghanistan,South Africa,Mumbai,ODI,Wicketkeeper,30,66,193.05,2,0,11,0,5.2,3,49,0,9.12,2,1,0,0,0,0,South Africa,1,Draw,156.525,0
+4009,Ibrahim Zadran,Afghanistan,South Africa,Lords,Test,Allrounder,119,9,179.58,4,8,8,1,8.1,3,8,1,5.82,0,1,1,0,0,1,South Africa,0,Draw,283.79,1
+4009,Naveen-ul-Haq,Afghanistan,South Africa,Lords,T20,Wicketkeeper,106,38,191.29,12,5,5,1,9.2,3,51,5,6.08,2,2,0,0,1,1,South Africa,0,Draw,376.645,1
+4009,Azmatullah Omarzai,Afghanistan,South Africa,Sydney,ODI,Allrounder,63,28,157.66,10,4,6,1,1.7,4,56,3,3.13,1,2,0,0,0,1,Afghanistan,1,Win,266.83,1
+4009,Rahmanullah Gurbaz,Afghanistan,South Africa,Lords,ODI,Allrounder,76,8,62.81,3,5,6,1,6.2,3,6,1,3.84,0,1,2,1,1,0,South Africa,0,Win,207.405,0
+4010,Marcus Stoinis,Australia,England,Mumbai,T20,Batsman,103,16,173.58,1,3,2,0,5.9,2,45,4,9.18,0,0,0,1,0,1,England,1,Win,334.79,1
+4010,Alex Carey,Australia,England,Mumbai,Test,Batsman,133,65,144.9,3,2,1,1,9.2,2,19,5,6.11,1,0,2,1,0,1,Australia,1,Win,395.45,1
+4010,Josh Hazlewood,Australia,England,Karachi,T20,Wicketkeeper,56,79,96.6,2,9,11,1,0.7,2,32,3,9.54,2,1,0,1,1,0,England,0,Loss,224.3,0
+4010,Steve Smith,Australia,England,Karachi,T20,Allrounder,66,20,105.3,9,9,6,1,8.2,0,47,0,6.96,0,2,1,0,1,0,Australia,0,Win,138.65,0
+4010,Pat Cummins,Australia,England,Sydney,Test,Wicketkeeper,18,48,91.42,3,4,10,1,9.5,3,10,5,6.03,1,1,1,0,0,0,Australia,1,Win,228.71,0
+4010,Adam Zampa,Australia,England,Mumbai,ODI,Wicketkeeper,128,38,94.91,8,6,1,0,5.4,3,17,0,6.83,2,0,1,1,1,0,Australia,1,Draw,240.45499999999998,0
+4010,Cameron Green,Australia,England,Mumbai,ODI,Bowler,128,15,175.16,5,9,5,1,9.2,2,66,5,3.98,2,2,2,0,1,0,Australia,0,Loss,390.58,1
+4010,Mitchell Starc,Australia,England,Karachi,ODI,Batsman,47,26,93.23,3,7,9,1,2.3,2,30,3,6.55,0,0,0,0,1,1,England,1,Loss,208.615,0
+4010,Glenn Maxwell,Australia,England,Mumbai,Test,Wicketkeeper,30,47,172.55,9,2,8,1,3.6,1,18,1,6.39,2,1,0,0,1,0,Australia,1,Win,161.275,0
+4010,David Warner,Australia,England,Mumbai,Test,Bowler,123,54,139.47,6,3,11,1,8.1,4,55,1,4.15,0,2,0,1,1,1,Australia,1,Loss,292.735,1
+4010,Marnus Labuschagne,Australia,England,Sydney,Test,Allrounder,48,32,134.83,0,5,3,0,9.7,4,64,5,6.68,2,1,0,1,1,0,Australia,1,Win,305.415,1
+4010,Sam Curran,England,Australia,Karachi,T20,Bowler,141,10,193.82,2,6,7,1,6.9,0,46,0,5.53,1,2,1,1,0,1,England,0,Win,272.90999999999997,0
+4010,Adil Rashid,England,Australia,Mumbai,Test,Batsman,63,90,136.09,1,1,5,0,7.1,3,69,4,8.66,2,0,2,0,0,1,England,0,Loss,291.045,1
+4010,Moeen Ali,England,Australia,Mumbai,ODI,Batsman,78,52,159.01,9,8,7,1,7.6,2,67,3,3.01,2,1,1,1,1,0,England,1,Loss,287.505,0
+4010,Joe Root,England,Australia,Lords,T20,Bowler,133,52,146.42,8,5,8,1,5.4,1,63,4,6.76,1,2,1,1,1,0,Australia,1,Loss,351.21,1
+4010,Jofra Archer,England,Australia,Sydney,T20,Batsman,118,75,175.01,12,7,9,1,2.9,4,34,2,6.87,0,1,1,1,1,0,Australia,0,Loss,330.505,1
+4010,Dawid Malan,England,Australia,Lords,ODI,Bowler,124,5,177.37,5,0,3,1,9.5,2,37,3,8.75,0,0,2,1,0,0,Australia,0,Win,342.685,1
+4010,Mark Wood,England,Australia,Karachi,Test,Batsman,124,38,95.96,6,9,7,0,6.3,2,54,5,8.99,1,2,0,0,0,1,England,1,Loss,326.98,1
+4010,Jonny Bairstow,England,Australia,Sydney,T20,Wicketkeeper,5,34,81.46,8,2,6,1,7.6,3,9,1,9.1,0,2,0,1,1,0,Australia,1,Loss,125.72999999999999,0
+4010,Chris Woakes,England,Australia,Cape Town,T20,Bowler,83,6,140.48,9,1,9,0,6.8,0,16,4,5.69,2,0,0,0,0,1,Australia,1,Loss,263.24,0
+4010,Jos Buttler,England,Australia,Lords,ODI,Allrounder,16,66,158.86,10,6,6,0,1.7,0,6,3,5.21,2,2,2,1,1,1,Australia,1,Draw,225.43,0
+4010,Ben Stokes,England,Australia,Sydney,T20,Batsman,115,9,162.02,2,2,8,1,7.2,2,42,4,6.8,1,1,1,1,1,1,England,1,Win,361.01,1
+4011,Mushfiqur Rahim,Bangladesh,Nepal,Sydney,T20,Batsman,46,88,112.79,2,6,11,1,6.0,3,12,5,8.98,2,0,0,0,1,1,Bangladesh,0,Loss,277.395,1
+4011,Mehidy Hasan Miraz,Bangladesh,Nepal,Karachi,ODI,Batsman,108,14,157.95,12,7,3,0,2.3,1,50,2,6.84,1,1,1,0,0,1,Bangladesh,0,Draw,266.975,0
+4011,Afif Hossain,Bangladesh,Nepal,Sydney,Test,Bowler,118,80,96.97,9,8,9,1,6.8,0,60,5,7.44,1,1,0,0,1,1,Bangladesh,0,Win,311.485,1
+4011,Taskin Ahmed,Bangladesh,Nepal,Mumbai,Test,Wicketkeeper,123,85,77.98,3,0,10,1,4.3,0,56,4,8.12,0,1,0,0,0,1,Nepal,0,Loss,271.99,0
+4011,Najmul Hossain Shanto,Bangladesh,Nepal,Cape Town,T20,Wicketkeeper,41,35,135.72,10,8,3,1,8.3,4,18,1,9.04,0,0,1,0,1,1,Nepal,0,Win,203.86,0
+4011,Mustafizur Rahman,Bangladesh,Nepal,Karachi,Test,Allrounder,5,69,87.16,8,5,8,0,8.1,3,57,2,6.88,1,0,1,1,1,1,Nepal,0,Draw,173.57999999999998,0
+4011,Tamim Iqbal,Bangladesh,Nepal,Karachi,ODI,Allrounder,58,53,146.64,14,8,4,0,10.0,2,44,3,9.11,0,0,1,1,1,1,Nepal,0,Draw,271.32,0
+4011,Litton Das,Bangladesh,Nepal,Cape Town,ODI,Bowler,35,2,52.63,1,0,8,1,5.7,0,22,1,8.69,2,0,0,1,1,1,Bangladesh,1,Loss,121.315,0
+4011,Shakib Al Hasan,Bangladesh,Nepal,Karachi,T20,Wicketkeeper,73,44,104.09,12,3,10,0,6.6,1,33,5,6.88,0,2,0,1,0,1,Nepal,1,Draw,285.045,1
+4011,Mahmudullah,Bangladesh,Nepal,Karachi,ODI,Bowler,137,12,198.21,14,3,4,0,4.6,3,46,0,9.18,2,0,0,1,1,1,Bangladesh,0,Win,301.105,1
+4011,Nasum Ahmed,Bangladesh,Nepal,Sydney,T20,Wicketkeeper,0,53,187.6,1,8,5,0,9.6,1,40,2,5.19,0,0,1,0,1,0,Bangladesh,0,Loss,173.8,0
+4011,Dipendra Singh Airee,Nepal,Bangladesh,Karachi,Test,Bowler,116,10,101.97,1,9,9,1,1.1,0,7,4,5.95,1,0,0,0,1,1,Bangladesh,1,Loss,286.985,1
+4011,Lalit Rajbanshi,Nepal,Bangladesh,Lords,T20,Batsman,72,45,106.73,9,4,11,0,7.5,4,17,5,6.19,1,0,2,1,1,0,Nepal,0,Win,335.365,1
+4011,Kushal Bhurtel,Nepal,Bangladesh,Karachi,ODI,Bowler,17,70,52.88,7,3,1,1,5.9,2,68,5,5.53,1,0,2,1,0,1,Nepal,1,Win,233.44,0
+4011,Gulsan Jha,Nepal,Bangladesh,Cape Town,T20,Wicketkeeper,91,46,119.84,14,8,7,1,4.7,4,24,3,7.8,1,1,2,1,1,0,Bangladesh,1,Draw,310.92,1
+4011,Bhim Sharki,Nepal,Bangladesh,Karachi,Test,Batsman,69,78,136.95,0,2,6,1,4.4,4,49,0,6.12,0,0,0,1,1,1,Nepal,1,Win,212.475,0
+4011,Rohit Paudel,Nepal,Bangladesh,Mumbai,T20,Wicketkeeper,142,67,83.9,6,8,8,0,0.6,1,28,1,6.86,2,1,2,1,1,1,Bangladesh,1,Draw,273.95,0
+4011,Kushal Malla,Nepal,Bangladesh,Sydney,Test,Batsman,90,45,74.24,6,8,11,1,9.4,0,25,3,4.89,2,2,1,1,1,1,Bangladesh,0,Win,247.12,0
+4011,Sandeep Lamichhane,Nepal,Bangladesh,Cape Town,ODI,Bowler,99,19,58.95,2,8,4,0,3.9,1,38,5,4.76,1,2,2,0,1,0,Nepal,1,Loss,293.475,1
+4011,Sompal Kami,Nepal,Bangladesh,Karachi,ODI,Bowler,120,6,181.07,1,2,1,0,2.2,2,51,4,3.92,0,2,1,0,1,1,Bangladesh,0,Win,360.53499999999997,1
+4011,Aasif Sheikh,Nepal,Bangladesh,Mumbai,Test,Allrounder,91,82,159.25,5,8,11,0,1.4,3,27,3,6.6,0,0,1,1,0,1,Bangladesh,1,Draw,310.625,1
+4011,Karan KC,Nepal,Bangladesh,Mumbai,T20,Allrounder,118,71,193.08,6,7,4,1,8.5,1,15,2,7.29,2,2,2,1,0,1,Bangladesh,0,Draw,319.54,1
+4012,Marnus Labuschagne,Australia,Bangladesh,Mumbai,Test,Bowler,129,48,145.74,12,1,4,1,9.7,1,64,3,9.61,0,2,2,0,1,1,Australia,0,Loss,326.87,1
+4012,Cameron Green,Australia,Bangladesh,Sydney,ODI,Batsman,139,30,58.74,0,8,4,1,6.8,2,3,4,3.37,2,0,1,0,1,1,Bangladesh,0,Loss,318.37,1
+4012,Mitchell Starc,Australia,Bangladesh,Lords,ODI,Wicketkeeper,80,83,52.77,14,4,3,1,2.3,0,58,4,8.22,1,0,0,1,0,1,Australia,1,Win,231.385,0
+4012,Steve Smith,Australia,Bangladesh,Sydney,T20,Allrounder,20,60,87.86,6,8,1,0,8.5,3,25,5,6.48,2,1,0,0,1,0,Australia,0,Draw,228.93,0
+4012,David Warner,Australia,Bangladesh,Cape Town,ODI,Allrounder,15,74,89.7,12,4,11,0,1.0,2,33,3,7.29,1,2,1,0,1,1,Bangladesh,1,Win,184.85,0
+4012,Alex Carey,Australia,Bangladesh,Lords,ODI,Bowler,108,48,138.6,3,7,10,1,3.2,2,6,0,4.26,1,1,1,1,0,1,Australia,1,Loss,232.3,0
+4012,Adam Zampa,Australia,Bangladesh,Lords,T20,Wicketkeeper,72,8,163.7,6,6,9,0,9.3,1,43,5,6.91,1,0,1,0,0,1,Bangladesh,1,Draw,308.85,1
+4012,Glenn Maxwell,Australia,Bangladesh,Sydney,Test,Batsman,80,34,176.55,1,4,2,0,3.9,4,25,0,6.14,0,1,2,1,1,1,Bangladesh,1,Draw,263.275,1
+4012,Marcus Stoinis,Australia,Bangladesh,Mumbai,Test,Wicketkeeper,125,49,101.1,4,3,11,0,8.7,2,42,5,6.32,2,1,2,0,0,1,Australia,0,Draw,350.55,1
+4012,Pat Cummins,Australia,Bangladesh,Mumbai,T20,Batsman,103,30,111.95,13,3,9,0,2.3,2,51,1,9.29,1,0,0,1,0,1,Australia,1,Win,228.975,0
+4012,Josh Hazlewood,Australia,Bangladesh,Karachi,ODI,Batsman,45,96,198.57,13,8,8,0,3.2,2,61,2,4.44,1,0,1,1,0,0,Australia,0,Loss,239.285,0
+4012,Mehidy Hasan Miraz,Bangladesh,Australia,Karachi,Test,Batsman,22,61,132.43,12,0,7,1,6.4,3,43,4,8.11,2,1,1,1,1,0,Australia,1,Win,253.215,1
+4012,Tamim Iqbal,Bangladesh,Australia,Cape Town,ODI,Bowler,42,42,136.21,13,0,3,1,4.9,4,32,4,3.39,0,0,1,1,0,0,Australia,1,Loss,275.105,1
+4012,Najmul Hossain Shanto,Bangladesh,Australia,Lords,ODI,Batsman,68,76,78.61,12,0,4,1,7.7,3,64,2,4.84,0,0,2,0,1,0,Bangladesh,0,Loss,217.305,0
+4012,Mushfiqur Rahim,Bangladesh,Australia,Lords,ODI,Bowler,145,50,165.28,6,0,1,0,7.8,2,0,4,7.85,1,2,0,1,0,1,Australia,0,Draw,372.64,1
+4012,Shakib Al Hasan,Bangladesh,Australia,Cape Town,T20,Allrounder,12,14,196.65,1,2,5,0,0.1,3,8,1,9.23,0,0,2,1,1,1,Australia,1,Draw,220.325,0
+4012,Afif Hossain,Bangladesh,Australia,Karachi,ODI,Allrounder,65,16,113.62,8,5,10,1,1.2,2,17,5,5.72,0,0,2,1,1,1,Australia,0,Loss,321.81,1
+4012,Mustafizur Rahman,Bangladesh,Australia,Sydney,ODI,Batsman,117,28,120.31,13,0,7,1,5.6,0,64,1,3.81,2,0,2,1,0,0,Australia,1,Draw,237.155,0
+4012,Taskin Ahmed,Bangladesh,Australia,Sydney,T20,Wicketkeeper,78,17,106.72,6,2,7,1,8.3,4,47,2,4.02,2,0,2,0,1,0,Australia,0,Draw,251.36,1
+4012,Mahmudullah,Bangladesh,Australia,Mumbai,Test,Wicketkeeper,40,97,81.59,7,2,2,1,5.1,2,42,4,5.08,1,2,2,1,0,0,Bangladesh,0,Loss,235.79500000000002,0
+4012,Litton Das,Bangladesh,Australia,Lords,T20,Bowler,57,59,142.71,10,5,8,0,5.2,2,52,3,6.61,1,2,1,0,1,0,Bangladesh,1,Loss,243.35500000000002,1
+4012,Nasum Ahmed,Bangladesh,Australia,Mumbai,ODI,Batsman,7,5,156.72,11,0,6,0,2.0,1,61,2,8.07,1,0,2,0,0,1,Bangladesh,1,Loss,175.36,0
+4013,Mehidy Hasan Miraz,Bangladesh,Ireland,Karachi,T20,Wicketkeeper,46,44,64.66,1,4,8,0,7.0,1,66,1,6.61,2,1,2,0,1,0,Bangladesh,1,Win,143.32999999999998,0
+4013,Afif Hossain,Bangladesh,Ireland,Lords,ODI,Bowler,115,49,121.03,4,5,4,0,7.4,4,52,5,3.33,0,2,1,0,1,1,Ireland,1,Win,370.515,1
+4013,Najmul Hossain Shanto,Bangladesh,Ireland,Mumbai,ODI,Wicketkeeper,47,31,55.4,11,5,10,0,8.9,1,37,0,7.31,2,2,0,1,1,0,Ireland,1,Win,109.7,0
+4013,Mahmudullah,Bangladesh,Ireland,Mumbai,T20,Bowler,58,91,192.32,0,4,2,1,0.2,1,30,2,3.61,0,0,2,0,1,0,Ireland,1,Win,244.16,1
+4013,Litton Das,Bangladesh,Ireland,Karachi,Test,Allrounder,18,85,100.32,8,9,8,0,3.6,3,24,1,3.24,0,1,2,0,1,0,Bangladesh,0,Win,153.16,0
+4013,Shakib Al Hasan,Bangladesh,Ireland,Karachi,Test,Bowler,122,86,164.8,3,1,9,0,2.0,0,60,2,8.33,2,1,2,1,0,1,Bangladesh,1,Draw,299.4,1
+4013,Nasum Ahmed,Bangladesh,Ireland,Cape Town,T20,Bowler,33,87,106.86,2,6,8,1,6.6,4,2,4,7.15,2,2,0,0,0,1,Ireland,1,Win,236.43,1
+4013,Mushfiqur Rahim,Bangladesh,Ireland,Sydney,Test,Bowler,89,89,109.83,11,5,10,0,2.7,1,22,1,3.52,2,1,2,0,0,0,Ireland,1,Draw,198.915,0
+4013,Tamim Iqbal,Bangladesh,Ireland,Lords,ODI,Batsman,145,21,189.74,9,0,6,0,2.7,0,22,5,7.03,2,1,1,1,1,1,Ireland,0,Win,409.87,1
+4013,Taskin Ahmed,Bangladesh,Ireland,Mumbai,Test,Batsman,60,23,74.6,13,2,1,1,4.2,0,41,5,4.71,0,1,0,1,0,0,Bangladesh,1,Loss,237.3,1
+4013,Mustafizur Rahman,Bangladesh,Ireland,Cape Town,ODI,Batsman,33,97,53.9,12,9,9,1,0.7,2,14,3,3.55,0,2,0,1,0,1,Bangladesh,0,Win,179.95,0
+4013,Mark Adair,Ireland,Bangladesh,Cape Town,Test,Wicketkeeper,44,97,138.3,14,5,5,1,4.9,0,16,1,8.89,1,1,0,0,1,0,Ireland,1,Win,148.15,0
+4013,Andrew Balbirnie,Ireland,Bangladesh,Sydney,Test,Allrounder,87,75,98.68,0,5,8,0,1.8,1,20,1,8.64,0,2,2,1,1,1,Ireland,1,Win,226.34,0
+4013,Joshua Little,Ireland,Bangladesh,Karachi,T20,Wicketkeeper,23,88,195.82,13,9,10,1,4.5,4,67,4,3.14,0,0,0,1,0,1,Bangladesh,1,Loss,285.90999999999997,1
+4013,George Dockrell,Ireland,Bangladesh,Cape Town,T20,Batsman,10,12,155.29,7,0,9,1,4.1,4,1,3,4.09,1,2,1,0,0,1,Ireland,0,Loss,222.64499999999998,0
+4013,Craig Young,Ireland,Bangladesh,Sydney,T20,Wicketkeeper,146,14,95.41,10,4,4,1,5.4,0,21,2,8.25,1,0,2,0,1,1,Ireland,0,Draw,283.705,1
+4013,Harry Tector,Ireland,Bangladesh,Mumbai,Test,Batsman,111,35,146.9,14,3,7,1,7.3,1,14,4,6.46,1,0,1,0,1,1,Ireland,0,Loss,324.45,1
+4013,Andy McBrine,Ireland,Bangladesh,Lords,T20,Bowler,89,94,105.49,13,5,6,1,5.7,3,5,1,4.57,0,2,1,1,1,0,Ireland,0,Win,231.745,0
+4013,Curtis Campher,Ireland,Bangladesh,Cape Town,Test,Allrounder,142,90,119.82,7,2,9,0,4.1,0,3,1,8.83,2,2,2,1,1,0,Ireland,0,Win,271.90999999999997,1
+4013,Lorcan Tucker,Ireland,Bangladesh,Karachi,ODI,Batsman,62,56,108.04,2,0,2,0,3.3,0,42,0,9.09,0,2,2,0,1,0,Ireland,0,Loss,146.02,0
+4013,Barry McCarthy,Ireland,Bangladesh,Sydney,Test,Wicketkeeper,14,16,97.91,13,4,8,0,2.6,3,3,2,9.85,0,1,1,1,0,0,Ireland,1,Draw,167.95499999999998,0
+4013,Paul Stirling,Ireland,Bangladesh,Lords,Test,Bowler,108,20,144.1,10,6,1,1,4.9,2,42,2,7.51,1,0,1,0,0,1,Bangladesh,0,Draw,270.05,1
+4014,George Dockrell,Ireland,Afghanistan,Karachi,T20,Batsman,16,12,165.0,6,9,2,1,2.7,2,12,0,3.27,1,2,1,0,1,0,Ireland,1,Draw,138.5,0
+4014,Harry Tector,Ireland,Afghanistan,Lords,Test,Wicketkeeper,106,3,73.48,8,7,1,0,9.9,0,54,2,7.52,2,0,2,0,1,1,Afghanistan,0,Win,232.74,0
+4014,Barry McCarthy,Ireland,Afghanistan,Sydney,Test,Bowler,149,27,136.35,14,4,2,1,9.3,2,41,3,4.9,1,0,2,0,1,0,Ireland,1,Loss,342.175,1
+4014,Mark Adair,Ireland,Afghanistan,Cape Town,T20,Allrounder,72,35,64.34,3,9,3,1,4.3,0,43,1,9.23,1,0,0,1,1,0,Afghanistan,0,Loss,154.17000000000002,0
+4014,Joshua Little,Ireland,Afghanistan,Sydney,Test,Bowler,137,66,174.78,8,6,8,0,9.0,1,35,0,8.11,2,2,2,0,0,0,Afghanistan,0,Win,254.39,0
+4014,Paul Stirling,Ireland,Afghanistan,Karachi,Test,Allrounder,120,22,165.57,11,6,1,0,6.9,2,63,2,8.59,0,0,2,0,0,0,Ireland,0,Loss,292.78499999999997,1
+4014,Andy McBrine,Ireland,Afghanistan,Mumbai,T20,Bowler,97,88,130.68,14,0,7,0,2.5,2,22,5,4.65,2,1,0,1,1,0,Ireland,1,Loss,332.34000000000003,1
+4014,Curtis Campher,Ireland,Afghanistan,Cape Town,Test,Bowler,64,69,154.36,1,9,5,0,4.3,0,17,1,6.33,0,2,1,1,0,0,Ireland,0,Win,191.18,0
+4014,Craig Young,Ireland,Afghanistan,Mumbai,T20,Bowler,72,48,128.78,7,6,11,1,1.3,3,23,4,4.04,1,0,1,0,1,0,Afghanistan,0,Loss,286.39,1
+4014,Andrew Balbirnie,Ireland,Afghanistan,Sydney,ODI,Allrounder,125,17,111.63,7,7,6,0,1.5,2,0,2,9.73,2,1,0,1,1,1,Ireland,1,Draw,285.815,1
+4014,Lorcan Tucker,Ireland,Afghanistan,Cape Town,T20,Allrounder,77,20,197.39,10,2,8,0,6.8,1,51,1,5.96,2,0,2,1,0,0,Afghanistan,1,Draw,245.695,0
+4014,Noor Ahmad,Afghanistan,Ireland,Sydney,ODI,Allrounder,82,40,170.15,2,4,2,1,4.4,2,57,2,9.66,2,0,1,1,0,0,Afghanistan,0,Draw,262.075,1
+4014,Fazalhaq Farooqi,Afghanistan,Ireland,Sydney,Test,Wicketkeeper,123,53,166.95,13,4,11,1,1.7,1,31,4,8.91,2,2,0,0,1,0,Afghanistan,0,Draw,326.475,1
+4014,Mujeeb Ur Rahman,Afghanistan,Ireland,Cape Town,ODI,Wicketkeeper,6,5,72.37,7,8,7,0,9.2,0,2,5,8.43,2,2,0,0,0,1,Ireland,1,Win,177.185,0
+4014,Najibullah Zadran,Afghanistan,Ireland,Cape Town,Test,Batsman,51,39,57.81,11,0,1,1,0.6,3,42,1,3.85,2,1,2,1,0,1,Afghanistan,0,Win,179.905,0
+4014,Ibrahim Zadran,Afghanistan,Ireland,Lords,T20,Allrounder,22,85,141.96,2,8,10,0,9.7,1,6,0,3.93,2,0,1,1,1,0,Ireland,0,Win,137.98000000000002,0
+4014,Naveen-ul-Haq,Afghanistan,Ireland,Karachi,T20,Allrounder,107,92,101.71,5,7,8,1,3.4,3,38,2,7.4,0,1,2,1,0,0,Ireland,0,Loss,272.855,1
+4014,Azmatullah Omarzai,Afghanistan,Ireland,Karachi,T20,Batsman,12,63,175.46,9,5,5,0,8.9,2,45,0,4.19,1,2,2,0,0,1,Ireland,0,Loss,149.73000000000002,0
+4014,Hashmatullah Shahidi,Afghanistan,Ireland,Karachi,T20,Batsman,132,9,145.24,1,5,8,1,0.6,4,15,4,8.96,0,2,0,0,1,1,Afghanistan,1,Win,364.62,1
+4014,Rahmanullah Gurbaz,Afghanistan,Ireland,Lords,Test,Batsman,82,35,57.44,11,5,10,0,5.2,1,1,4,4.84,0,0,1,1,1,0,Afghanistan,1,Draw,255.72,0
+4014,Mohammad Nabi,Afghanistan,Ireland,Lords,Test,Allrounder,98,37,110.78,4,8,1,0,2.1,4,45,3,8.22,1,2,2,0,0,0,Afghanistan,0,Loss,288.39,1
+4014,Rashid Khan,Afghanistan,Ireland,Lords,ODI,Batsman,146,30,145.77,6,1,8,0,0.5,2,24,4,6.28,1,2,2,1,0,0,Ireland,0,Draw,373.885,1
+4015,Alex Carey,Australia,Oman,Karachi,Test,Allrounder,10,41,59.43,3,1,4,1,2.2,2,66,4,9.57,0,1,1,0,1,0,Oman,1,Loss,179.715,0
+4015,Marcus Stoinis,Australia,Oman,Karachi,T20,Allrounder,76,61,137.35,11,5,11,0,7.2,4,6,0,3.42,2,0,2,0,0,1,Oman,0,Win,214.675,0
+4015,Cameron Green,Australia,Oman,Sydney,Test,Allrounder,127,37,100.23,12,4,7,1,4.7,1,45,2,6.97,2,0,1,0,0,0,Australia,1,Loss,247.115,0
+4015,David Warner,Australia,Oman,Mumbai,ODI,Bowler,137,50,116.39,13,6,6,1,0.4,4,57,0,5.43,1,1,2,0,0,1,Oman,0,Loss,265.195,1
+4015,Steve Smith,Australia,Oman,Lords,Test,Batsman,109,80,191.21,3,5,6,0,9.9,0,12,2,4.54,0,1,1,1,0,0,Oman,1,Win,279.605,1
+4015,Pat Cummins,Australia,Oman,Cape Town,ODI,Batsman,16,51,197.38,9,8,6,1,8.5,2,10,2,7.6,1,2,0,0,0,1,Oman,1,Draw,194.69,0
+4015,Mitchell Starc,Australia,Oman,Lords,ODI,Wicketkeeper,83,57,63.35,14,0,11,0,8.5,1,11,3,4.54,0,2,2,1,1,0,Australia,1,Loss,244.675,0
+4015,Glenn Maxwell,Australia,Oman,Mumbai,T20,Allrounder,124,29,138.13,12,2,2,0,0.6,0,58,4,3.84,1,2,2,1,0,0,Australia,1,Win,328.065,1
+4015,Marnus Labuschagne,Australia,Oman,Cape Town,ODI,Bowler,38,23,111.35,10,0,8,0,7.7,1,50,5,8.51,0,0,2,1,0,1,Australia,1,Draw,273.675,1
+4015,Josh Hazlewood,Australia,Oman,Lords,ODI,Bowler,132,32,192.6,8,5,7,1,4.8,4,15,2,7.79,2,1,0,0,0,1,Oman,1,Win,328.3,1
+4015,Adam Zampa,Australia,Oman,Cape Town,Test,Batsman,118,70,110.73,10,0,4,1,8.6,1,17,1,9.13,0,0,2,1,1,1,Australia,0,Loss,263.365,1
+4015,Zeeshan Maqsood,Oman,Australia,Lords,ODI,Wicketkeeper,128,39,110.67,10,9,10,0,3.1,1,13,5,4.18,2,1,2,1,1,0,Oman,0,Loss,363.33500000000004,1
+4015,Khawar Ali,Oman,Australia,Mumbai,T20,Allrounder,18,62,171.08,2,4,8,1,1.3,1,45,1,7.01,2,1,0,1,1,0,Australia,0,Win,163.54000000000002,0
+4015,Naseem Khushi,Oman,Australia,Lords,ODI,Bowler,61,20,120.75,9,2,6,1,6.4,4,10,4,7.37,1,0,0,1,0,1,Oman,1,Draw,286.375,1
+4015,Shoaib Khan,Oman,Australia,Mumbai,Test,Allrounder,4,63,197.36,9,1,9,0,2.7,3,45,0,6.64,1,2,1,1,0,1,Australia,1,Win,167.68,0
+4015,Jatinder Singh,Oman,Australia,Cape Town,ODI,Wicketkeeper,28,9,151.51,6,6,5,1,5.2,1,48,0,7.16,0,1,1,1,1,0,Oman,1,Draw,148.755,0
+4015,Kaleemullah,Oman,Australia,Cape Town,ODI,Allrounder,116,55,192.81,7,7,3,0,2.0,0,43,2,6.08,1,1,0,1,1,0,Australia,0,Draw,287.405,1
+4015,Fayyaz Butt,Oman,Australia,Lords,ODI,Batsman,76,47,151.64,13,5,11,1,4.0,2,38,2,6.21,2,0,1,1,1,0,Australia,0,Loss,256.82,0
+4015,Bilal Khan,Oman,Australia,Karachi,ODI,Wicketkeeper,62,71,151.95,8,8,2,0,7.4,3,3,4,9.27,2,0,0,0,1,1,Oman,0,Loss,287.975,1
+4015,Aqib Ilyas,Oman,Australia,Sydney,ODI,Wicketkeeper,32,76,160.97,9,0,11,0,3.1,0,59,3,7.72,2,2,0,0,0,0,Australia,1,Draw,187.485,0
+4015,Mohammad Nadeem,Oman,Australia,Karachi,Test,Batsman,86,31,194.82,5,2,1,0,1.4,1,9,4,3.92,1,1,1,0,0,0,Oman,1,Win,303.40999999999997,1
+4015,Ayaan Khan,Oman,Australia,Mumbai,Test,Wicketkeeper,43,28,94.04,1,2,4,1,8.2,3,15,4,4.95,1,1,1,1,1,0,Oman,0,Win,255.02,0
+4016,Josh Hazlewood,Australia,India,Lords,T20,Batsman,97,2,150.47,6,3,4,1,5.1,1,66,2,6.95,2,2,0,1,1,0,India,1,Win,257.235,1
+4016,Cameron Green,Australia,India,Lords,ODI,Bowler,53,61,104.68,4,2,11,0,4.0,2,63,1,5.48,1,2,1,0,0,0,India,1,Draw,160.34,0
+4016,Mitchell Starc,Australia,India,Lords,Test,Allrounder,40,92,176.35,2,7,6,0,1.2,4,9,1,4.63,1,0,2,1,0,0,Australia,1,Draw,228.175,1
+4016,Glenn Maxwell,Australia,India,Lords,Test,Batsman,20,26,107.65,10,6,1,1,6.1,3,19,1,7.8,0,0,0,0,1,1,India,0,Draw,148.825,0
+4016,Pat Cummins,Australia,India,Cape Town,Test,Batsman,25,79,62.83,6,2,4,0,2.8,4,55,3,6.37,2,1,1,1,1,0,India,0,Loss,206.415,0
+4016,Adam Zampa,Australia,India,Mumbai,ODI,Batsman,139,60,60.37,5,3,1,0,6.5,1,33,0,6.55,1,0,1,1,1,0,Australia,0,Draw,214.185,0
+4016,Steve Smith,Australia,India,Sydney,ODI,Wicketkeeper,113,29,98.88,3,0,5,0,3.6,4,56,4,7.72,1,2,0,0,1,0,Australia,1,Win,312.44,1
+4016,Marnus Labuschagne,Australia,India,Karachi,ODI,Wicketkeeper,93,94,87.48,10,5,9,1,5.6,1,53,4,7.56,1,1,0,0,0,1,India,1,Draw,256.74,1
+4016,Alex Carey,Australia,India,Lords,ODI,Allrounder,54,15,192.83,14,5,4,1,9.2,4,68,1,5.93,1,0,2,0,0,1,Australia,0,Loss,245.41500000000002,1
+4016,Marcus Stoinis,Australia,India,Sydney,Test,Bowler,23,53,69.9,5,1,8,1,8.8,3,39,0,4.11,1,2,2,0,0,0,India,1,Win,107.95,0
+4016,David Warner,Australia,India,Karachi,Test,Wicketkeeper,83,65,183.25,0,7,10,1,5.6,4,12,5,4.02,1,2,1,0,1,0,Australia,1,Draw,359.625,1
+4016,Shubman Gill,India,Australia,Lords,T20,Batsman,110,76,75.52,10,4,8,0,5.6,0,0,2,7.06,2,0,1,0,1,0,Australia,0,Loss,217.76,0
+4016,Rishabh Pant,India,Australia,Cape Town,ODI,Wicketkeeper,34,74,57.69,5,1,8,0,5.0,4,15,4,9.45,1,2,2,1,1,0,Australia,0,Draw,247.845,1
+4016,Hardik Pandya,India,Australia,Lords,Test,Allrounder,32,19,198.59,5,3,8,0,7.1,0,22,0,7.82,2,0,2,0,1,1,India,1,Loss,171.29500000000002,0
+4016,Jasprit Bumrah,India,Australia,Cape Town,ODI,Allrounder,39,65,95.63,13,3,10,0,9.2,4,60,2,3.29,1,2,0,0,1,1,India,0,Draw,196.815,0
+4016,KL Rahul,India,Australia,Mumbai,ODI,Wicketkeeper,18,2,95.38,2,0,10,0,1.9,2,65,0,7.64,2,2,1,0,1,0,Australia,1,Win,105.69,0
+4016,Virat Kohli,India,Australia,Mumbai,Test,Allrounder,50,46,161.42,7,1,4,0,4.5,1,0,1,3.12,2,2,0,0,1,1,India,1,Loss,185.70999999999998,0
+4016,Surya Kumar Yadav,India,Australia,Mumbai,Test,Allrounder,32,74,123.12,0,0,7,1,5.0,4,43,5,9.52,1,2,1,1,1,1,India,0,Win,303.56,1
+4016,Mohammed Shami,India,Australia,Karachi,Test,Allrounder,40,25,120.48,7,3,4,1,1.0,3,69,2,7.17,1,2,2,1,1,1,Australia,1,Win,235.24,1
+4016,Ravindra Jadeja,India,Australia,Lords,Test,Wicketkeeper,60,88,123.69,11,4,7,1,1.0,4,34,1,8.68,1,2,0,1,1,1,India,0,Win,221.845,1
+4016,Kuldeep Yadav,India,Australia,Mumbai,T20,Batsman,133,11,164.81,1,0,3,1,0.1,4,59,5,7.69,1,1,0,0,1,0,Australia,0,Loss,390.405,1
+4016,Rohit Sharma,India,Australia,Sydney,T20,Bowler,101,75,127.03,13,0,4,1,9.5,0,31,0,9.89,1,1,2,1,0,0,India,1,Win,199.515,0
+4017,Rahmanullah Gurbaz,Afghanistan,Ireland,Cape Town,ODI,Batsman,110,96,97.52,13,1,2,0,9.8,0,47,2,7.82,0,0,1,0,1,1,Afghanistan,0,Win,238.76,1
+4017,Noor Ahmad,Afghanistan,Ireland,Mumbai,T20,Bowler,69,41,177.62,0,9,3,1,4.9,0,16,0,6.02,0,1,0,0,1,1,Ireland,1,Win,177.81,0
+4017,Naveen-ul-Haq,Afghanistan,Ireland,Lords,ODI,Wicketkeeper,79,66,68.86,2,2,3,1,8.7,0,37,2,4.18,2,2,2,1,0,1,Afghanistan,1,Draw,208.43,0
+4017,Ibrahim Zadran,Afghanistan,Ireland,Mumbai,ODI,Batsman,47,5,128.55,3,7,9,0,2.8,3,57,0,4.47,2,2,0,1,0,0,Ireland,0,Draw,156.275,0
+4017,Mohammad Nabi,Afghanistan,Ireland,Sydney,Test,Bowler,126,21,61.02,13,5,9,0,8.9,4,35,5,3.62,1,1,2,0,0,0,Afghanistan,0,Win,341.51,1
+4017,Hashmatullah Shahidi,Afghanistan,Ireland,Sydney,Test,Wicketkeeper,104,73,199.26,2,2,9,0,1.2,2,10,0,3.41,0,1,1,0,0,1,Afghanistan,1,Loss,243.63,1
+4017,Rashid Khan,Afghanistan,Ireland,Sydney,T20,Wicketkeeper,19,44,190.83,14,8,7,1,0.1,3,15,4,6.82,2,2,2,1,0,0,Afghanistan,1,Draw,279.415,1
+4017,Azmatullah Omarzai,Afghanistan,Ireland,Karachi,ODI,Bowler,7,99,106.37,8,5,5,0,9.9,1,5,2,9.38,2,1,2,0,0,1,Ireland,0,Loss,150.185,0
+4017,Mujeeb Ur Rahman,Afghanistan,Ireland,Lords,Test,Wicketkeeper,106,52,54.98,5,4,7,0,7.6,4,45,1,7.7,2,2,1,0,1,0,Afghanistan,1,Draw,218.49,1
+4017,Najibullah Zadran,Afghanistan,Ireland,Sydney,ODI,Allrounder,4,62,148.05,4,9,9,1,1.6,2,27,5,3.56,1,2,1,0,0,1,Afghanistan,1,Win,243.025,1
+4017,Fazalhaq Farooqi,Afghanistan,Ireland,Sydney,T20,Wicketkeeper,16,28,73.13,3,6,9,1,3.0,1,42,2,6.78,1,0,1,0,0,1,Afghanistan,1,Draw,132.565,0
+4017,Paul Stirling,Ireland,Afghanistan,Lords,ODI,Allrounder,72,56,102.28,5,5,4,0,6.9,3,35,4,3.46,0,0,2,0,0,0,Ireland,1,Win,273.14,1
+4017,Curtis Campher,Ireland,Afghanistan,Sydney,Test,Allrounder,40,65,181.51,3,4,4,0,3.5,1,47,1,3.47,0,0,2,0,1,0,Ireland,1,Win,195.755,0
+4017,Andrew Balbirnie,Ireland,Afghanistan,Cape Town,Test,Bowler,131,68,53.25,0,7,11,0,4.9,0,35,1,3.35,2,2,1,0,1,1,Ireland,0,Loss,212.625,0
+4017,Joshua Little,Ireland,Afghanistan,Mumbai,T20,Allrounder,139,41,91.55,14,1,9,0,1.9,0,5,5,5.28,0,2,0,1,0,0,Ireland,1,Draw,324.775,1
+4017,Mark Adair,Ireland,Afghanistan,Mumbai,ODI,Wicketkeeper,25,38,54.69,3,9,5,1,0.2,1,50,2,7.36,0,1,1,1,0,1,Ireland,1,Loss,147.345,0
+4017,Andy McBrine,Ireland,Afghanistan,Lords,T20,Allrounder,69,38,139.65,6,6,10,0,3.2,3,22,3,3.95,1,0,2,1,0,1,Ireland,0,Loss,288.825,1
+4017,Lorcan Tucker,Ireland,Afghanistan,Cape Town,T20,Wicketkeeper,68,51,110.25,12,2,2,1,6.8,4,15,0,5.78,2,0,1,0,1,1,Ireland,0,Win,193.125,0
+4017,Harry Tector,Ireland,Afghanistan,Sydney,ODI,Batsman,27,96,52.01,8,5,11,0,2.3,3,21,4,7.42,0,0,0,1,1,1,Ireland,0,Win,218.005,0
+4017,Craig Young,Ireland,Afghanistan,Karachi,ODI,Wicketkeeper,73,96,167.82,2,5,11,0,1.2,1,45,1,7.57,0,1,2,0,1,0,Ireland,1,Loss,221.91,1
+4017,Barry McCarthy,Ireland,Afghanistan,Mumbai,ODI,Bowler,26,7,133.52,4,7,8,0,3.5,3,5,0,3.91,1,1,2,0,1,1,Afghanistan,0,Draw,162.76,0
+4017,George Dockrell,Ireland,Afghanistan,Cape Town,Test,Bowler,115,12,134.78,11,7,4,1,9.1,0,48,2,9.16,0,0,0,0,1,0,Afghanistan,1,Draw,242.39,1
+4018,Mark Adair,Ireland,Sri Lanka,Lords,T20,Wicketkeeper,27,51,155.1,8,3,6,1,8.3,0,58,4,9.65,1,2,1,1,0,1,Ireland,1,Win,239.55,1
+4018,Andrew Balbirnie,Ireland,Sri Lanka,Karachi,T20,Wicketkeeper,5,39,121.56,8,7,9,0,6.8,3,19,3,8.38,2,2,0,0,0,1,Sri Lanka,1,Draw,180.78,0
+4018,Craig Young,Ireland,Sri Lanka,Sydney,T20,Batsman,94,65,161.12,6,4,4,0,7.8,3,53,0,3.58,1,2,0,0,1,1,Ireland,1,Win,224.56,1
+4018,Barry McCarthy,Ireland,Sri Lanka,Lords,ODI,Allrounder,118,57,78.61,7,9,9,1,0.8,2,2,0,7.94,2,0,1,0,0,1,Sri Lanka,0,Draw,197.305,0
+4018,Andy McBrine,Ireland,Sri Lanka,Lords,Test,Batsman,124,45,58.71,14,0,9,1,3.6,1,17,3,5.65,1,2,0,1,1,1,Ireland,0,Draw,273.355,1
+4018,Paul Stirling,Ireland,Sri Lanka,Karachi,Test,Batsman,8,12,119.78,5,7,10,0,8.1,4,49,2,3.05,2,0,1,1,0,0,Sri Lanka,1,Win,182.89,0
+4018,George Dockrell,Ireland,Sri Lanka,Sydney,T20,Bowler,113,63,90.29,11,5,6,0,9.3,0,19,4,4.44,1,0,2,1,1,1,Ireland,1,Loss,313.145,1
+4018,Harry Tector,Ireland,Sri Lanka,Mumbai,T20,Bowler,109,46,123.34,6,2,1,0,9.4,1,57,5,5.76,0,2,2,0,1,0,Ireland,1,Draw,335.67,1
+4018,Curtis Campher,Ireland,Sri Lanka,Lords,T20,Allrounder,16,68,160.89,6,4,6,1,8.0,0,53,3,4.63,2,0,2,0,1,0,Sri Lanka,1,Draw,201.445,0
+4018,Lorcan Tucker,Ireland,Sri Lanka,Sydney,Test,Wicketkeeper,110,37,116.56,12,1,8,0,1.0,2,8,3,8.56,2,1,1,0,1,0,Ireland,0,Loss,283.28,1
+4018,Joshua Little,Ireland,Sri Lanka,Karachi,T20,Batsman,88,77,66.61,3,0,5,1,4.0,0,9,3,7.6,2,1,0,0,0,0,Ireland,1,Draw,196.305,0
+4018,Kasun Rajitha,Sri Lanka,Ireland,Sydney,Test,Wicketkeeper,79,89,176.45,10,1,10,1,8.0,2,12,1,4.47,1,2,0,0,0,0,Sri Lanka,1,Win,212.225,0
+4018,Dasun Shanaka,Sri Lanka,Ireland,Mumbai,ODI,Bowler,56,41,199.6,1,0,3,0,7.0,1,50,0,6.0,1,1,2,0,0,0,Sri Lanka,1,Win,185.8,0
+4018,Kusal Mendis,Sri Lanka,Ireland,Karachi,Test,Batsman,121,19,182.57,7,3,9,1,9.8,4,13,3,4.77,1,2,1,0,0,0,Sri Lanka,1,Win,337.28499999999997,1
+4018,Angelo Mathews,Sri Lanka,Ireland,Karachi,ODI,Wicketkeeper,17,63,87.35,14,2,7,0,8.2,2,52,3,5.81,0,0,0,1,0,0,Ireland,0,Loss,170.675,0
+4018,Wanindu Hasaranga,Sri Lanka,Ireland,Sydney,T20,Bowler,122,73,109.29,3,0,8,0,2.9,1,24,3,8.72,1,1,0,1,0,0,Sri Lanka,1,Draw,276.645,1
+4018,Dhananjaya de Silva,Sri Lanka,Ireland,Cape Town,Test,Batsman,122,9,79.67,0,8,9,0,8.1,2,7,0,4.94,1,0,2,0,0,0,Ireland,1,Loss,201.835,0
+4018,Charith Asalanka,Sri Lanka,Ireland,Mumbai,T20,Allrounder,38,48,139.6,2,7,8,0,6.1,0,66,1,6.71,1,1,2,1,0,1,Sri Lanka,1,Loss,177.8,0
+4018,Pathum Nissanka,Sri Lanka,Ireland,Lords,ODI,Bowler,26,54,143.28,8,4,11,0,1.2,0,57,5,9.57,0,1,2,1,0,0,Ireland,0,Win,257.64,1
+4018,Dimuth Karunaratne,Sri Lanka,Ireland,Sydney,T20,Wicketkeeper,72,47,64.91,13,3,8,1,8.8,4,16,1,4.2,1,1,2,1,1,1,Sri Lanka,0,Win,224.45499999999998,0
+4018,Lahiru Kumara,Sri Lanka,Ireland,Lords,ODI,Allrounder,126,57,130.66,10,8,7,0,7.6,2,45,3,8.31,1,1,2,0,1,0,Sri Lanka,1,Draw,316.33,1
+4018,Maheesh Theekshana,Sri Lanka,Ireland,Mumbai,Test,Allrounder,100,86,55.85,14,1,10,1,9.2,4,26,4,8.86,2,1,2,1,0,0,Ireland,1,Draw,302.925,1
+4019,Logan van Beek,Netherlands,Sri Lanka,Karachi,Test,Batsman,135,67,194.41,8,2,4,0,6.5,2,50,5,3.11,1,0,1,1,1,0,Sri Lanka,1,Loss,412.205,1
+4019,Scott Edwards,Netherlands,Sri Lanka,Sydney,T20,Bowler,6,14,144.8,13,4,5,1,2.5,1,29,0,3.71,2,1,1,1,0,1,Netherlands,1,Loss,123.4,0
+4019,Bas de Leede,Netherlands,Sri Lanka,Sydney,Test,Batsman,137,71,108.8,14,8,7,0,3.3,1,7,1,6.21,1,2,0,1,0,0,Netherlands,1,Draw,241.4,0
+4019,Vikramjit Singh,Netherlands,Sri Lanka,Cape Town,ODI,Allrounder,1,95,154.42,0,4,4,0,6.2,0,21,5,6.16,1,2,1,0,1,1,Sri Lanka,0,Win,233.20999999999998,0
+4019,Teja Nidamanuru,Netherlands,Sri Lanka,Cape Town,T20,Wicketkeeper,149,91,137.43,4,1,4,1,3.7,1,53,0,3.45,2,1,0,1,1,1,Netherlands,1,Loss,262.71500000000003,1
+4019,Max O'Dowd,Netherlands,Sri Lanka,Cape Town,ODI,Allrounder,86,5,172.07,3,5,8,1,7.6,4,3,1,6.49,0,2,0,0,0,0,Netherlands,0,Win,237.035,0
+4019,Paul van Meekeren,Netherlands,Sri Lanka,Sydney,T20,Bowler,124,87,191.21,10,2,4,1,9.3,3,23,4,3.32,2,2,1,0,1,0,Sri Lanka,0,Loss,369.605,1
+4019,Roelof van der Merwe,Netherlands,Sri Lanka,Sydney,T20,Batsman,77,97,149.32,6,8,8,0,2.3,2,36,0,6.21,1,2,0,1,0,1,Sri Lanka,1,Loss,196.66,0
+4019,Colin Ackermann,Netherlands,Sri Lanka,Lords,Test,Allrounder,39,48,64.05,3,5,2,0,0.4,2,13,5,3.25,1,2,1,1,1,1,Netherlands,1,Loss,261.025,1
+4019,Shariz Ahmad,Netherlands,Sri Lanka,Karachi,Test,Allrounder,135,45,83.51,0,2,1,0,3.1,2,28,5,4.43,0,1,2,0,1,0,Netherlands,0,Win,351.755,1
+4019,Aryan Dutt,Netherlands,Sri Lanka,Karachi,ODI,Batsman,102,83,125.04,13,4,5,0,7.4,1,29,3,3.29,0,2,1,1,1,1,Sri Lanka,1,Loss,294.52,1
+4019,Dasun Shanaka,Sri Lanka,Netherlands,Cape Town,Test,Allrounder,57,32,58.33,1,6,1,1,2.5,3,35,0,7.09,2,1,0,0,0,1,Sri Lanka,0,Win,126.16499999999999,0
+4019,Dhananjaya de Silva,Sri Lanka,Netherlands,Cape Town,Test,Bowler,133,24,55.66,2,3,8,1,5.5,4,24,1,3.29,0,2,0,1,0,1,Sri Lanka,1,Loss,250.82999999999998,1
+4019,Angelo Mathews,Sri Lanka,Netherlands,Lords,Test,Wicketkeeper,89,67,70.23,12,0,2,0,3.8,0,27,2,4.92,0,2,1,1,1,1,Sri Lanka,1,Loss,219.115,0
+4019,Kusal Mendis,Sri Lanka,Netherlands,Karachi,ODI,Batsman,113,38,190.36,12,4,7,0,1.2,4,32,3,4.06,1,1,1,1,1,1,Sri Lanka,1,Win,368.18,1
+4019,Maheesh Theekshana,Sri Lanka,Netherlands,Sydney,T20,Wicketkeeper,129,42,78.53,12,4,5,1,5.4,3,1,2,7.2,1,1,1,1,1,0,Netherlands,1,Draw,283.265,1
+4019,Wanindu Hasaranga,Sri Lanka,Netherlands,Karachi,ODI,Bowler,41,37,93.97,4,3,6,1,6.2,0,37,0,9.09,0,0,0,0,0,1,Netherlands,0,Loss,97.985,0
+4019,Dimuth Karunaratne,Sri Lanka,Netherlands,Karachi,T20,Allrounder,6,22,157.36,12,2,9,0,5.1,3,41,1,3.05,2,0,2,0,0,0,Netherlands,0,Win,159.68,0
+4019,Charith Asalanka,Sri Lanka,Netherlands,Karachi,Test,Batsman,66,55,83.85,1,4,5,0,4.7,2,21,1,5.66,0,2,1,0,1,0,Netherlands,0,Loss,172.925,0
+4019,Kasun Rajitha,Sri Lanka,Netherlands,Cape Town,T20,Wicketkeeper,45,1,131.72,12,8,1,1,9.9,1,31,1,7.0,1,0,2,1,1,1,Sri Lanka,0,Loss,200.86,0
+4019,Lahiru Kumara,Sri Lanka,Netherlands,Sydney,ODI,Wicketkeeper,130,5,87.11,1,6,8,1,7.5,0,33,3,8.67,1,1,2,1,0,0,Netherlands,0,Draw,283.555,1
+4019,Pathum Nissanka,Sri Lanka,Netherlands,Lords,T20,Bowler,141,69,103.99,7,2,11,0,5.7,3,13,1,6.68,1,0,0,0,0,0,Netherlands,0,Win,247.995,1
+4020,Pathum Nissanka,Sri Lanka,Netherlands,Karachi,T20,Bowler,90,10,104.13,11,0,1,1,1.2,1,49,4,6.92,1,2,1,1,0,0,Netherlands,1,Loss,277.065,1
+4020,Charith Asalanka,Sri Lanka,Netherlands,Lords,T20,Allrounder,114,28,82.54,11,1,2,0,8.8,2,58,5,5.9,0,1,0,1,1,0,Netherlands,1,Win,325.27,1
+4020,Maheesh Theekshana,Sri Lanka,Netherlands,Lords,T20,Allrounder,32,69,163.52,4,4,2,0,7.1,1,31,3,4.97,2,1,1,0,1,1,Netherlands,0,Draw,228.76,0
+4020,Wanindu Hasaranga,Sri Lanka,Netherlands,Mumbai,T20,Bowler,108,27,108.6,3,2,7,1,5.7,0,64,4,7.65,1,1,1,0,0,1,Netherlands,0,Loss,282.3,1
+4020,Dasun Shanaka,Sri Lanka,Netherlands,Mumbai,ODI,Allrounder,54,35,100.69,7,3,9,1,8.8,3,24,3,8.67,2,1,2,1,1,1,Sri Lanka,0,Win,264.345,1
+4020,Dimuth Karunaratne,Sri Lanka,Netherlands,Cape Town,ODI,Allrounder,53,1,186.28,1,6,10,0,9.3,4,28,1,4.44,2,2,1,0,0,1,Sri Lanka,1,Win,231.14,0
+4020,Kasun Rajitha,Sri Lanka,Netherlands,Lords,T20,Bowler,13,99,117.78,0,4,3,1,0.1,1,63,5,7.88,2,1,1,0,1,0,Sri Lanka,1,Loss,226.89,0
+4020,Kusal Mendis,Sri Lanka,Netherlands,Lords,T20,Bowler,36,82,155.85,14,2,5,1,4.3,1,55,0,6.79,2,2,1,1,0,0,Netherlands,0,Loss,148.925,0
+4020,Angelo Mathews,Sri Lanka,Netherlands,Lords,Test,Bowler,57,90,147.44,12,4,5,1,8.5,1,12,0,7.07,2,2,1,0,0,1,Netherlands,1,Draw,160.72,0
+4020,Dhananjaya de Silva,Sri Lanka,Netherlands,Sydney,ODI,Allrounder,121,76,168.76,11,8,4,0,2.7,1,7,1,7.7,1,2,0,0,1,0,Sri Lanka,0,Win,250.38,0
+4020,Lahiru Kumara,Sri Lanka,Netherlands,Mumbai,Test,Wicketkeeper,131,2,130.6,4,0,11,0,3.5,2,6,1,4.58,1,0,2,1,1,0,Sri Lanka,1,Draw,286.3,1
+4020,Roelof van der Merwe,Netherlands,Sri Lanka,Karachi,T20,Batsman,34,41,195.16,8,5,8,0,4.3,3,62,3,3.86,1,1,0,0,0,0,Netherlands,1,Loss,236.57999999999998,0
+4020,Shariz Ahmad,Netherlands,Sri Lanka,Mumbai,Test,Allrounder,112,81,76.93,7,5,1,1,1.4,2,25,3,9.57,1,1,2,1,0,1,Netherlands,0,Loss,290.46500000000003,1
+4020,Paul van Meekeren,Netherlands,Sri Lanka,Sydney,T20,Wicketkeeper,51,31,155.94,3,9,5,0,5.0,0,4,4,6.8,1,1,2,0,0,0,Netherlands,0,Draw,248.97,0
+4020,Aryan Dutt,Netherlands,Sri Lanka,Sydney,ODI,Wicketkeeper,121,28,108.48,4,9,1,0,3.6,3,6,0,5.27,2,0,2,0,0,0,Sri Lanka,0,Draw,225.24,0
+4020,Vikramjit Singh,Netherlands,Sri Lanka,Lords,Test,Wicketkeeper,16,58,167.33,13,4,3,1,8.8,1,5,1,8.14,0,2,0,0,1,1,Sri Lanka,1,Loss,154.66500000000002,0
+4020,Teja Nidamanuru,Netherlands,Sri Lanka,Sydney,Test,Bowler,119,5,129.81,7,7,3,0,7.0,1,39,4,8.63,1,1,2,1,0,0,Sri Lanka,1,Loss,328.905,1
+4020,Logan van Beek,Netherlands,Sri Lanka,Sydney,T20,Wicketkeeper,57,37,165.56,11,0,4,1,2.5,2,8,1,5.19,1,1,0,1,0,0,Netherlands,0,Win,199.78,0
+4020,Max O'Dowd,Netherlands,Sri Lanka,Lords,ODI,Allrounder,34,23,94.03,6,6,10,0,8.0,3,63,5,5.19,1,1,0,1,0,1,Netherlands,0,Win,261.015,1
+4020,Colin Ackermann,Netherlands,Sri Lanka,Cape Town,ODI,Wicketkeeper,49,36,169.5,10,3,4,0,9.8,4,22,5,4.38,1,1,0,1,0,1,Sri Lanka,0,Win,323.75,1
+4020,Bas de Leede,Netherlands,Sri Lanka,Mumbai,Test,Allrounder,128,5,147.03,5,3,2,1,7.7,2,64,3,5.2,1,0,2,1,0,1,Sri Lanka,1,Win,341.515,1
+4020,Scott Edwards,Netherlands,Sri Lanka,Karachi,Test,Batsman,126,65,62.01,5,2,1,1,5.2,3,29,3,5.85,1,1,2,1,1,0,Netherlands,1,Win,307.005,1
+4021,Shakib Al Hasan,Bangladesh,India,Sydney,Test,Batsman,29,12,103.8,1,1,5,0,8.7,2,51,0,7.12,2,1,0,1,0,1,Bangladesh,0,Loss,125.9,0
+4021,Afif Hossain,Bangladesh,India,Mumbai,ODI,Bowler,94,97,164.53,8,4,2,0,4.3,1,24,3,6.69,2,1,1,1,1,0,Bangladesh,1,Draw,296.265,1
+4021,Mushfiqur Rahim,Bangladesh,India,Mumbai,T20,Wicketkeeper,72,74,52.64,14,9,6,0,4.8,4,20,3,6.38,1,0,2,1,1,1,India,1,Loss,268.32,1
+4021,Mehidy Hasan Miraz,Bangladesh,India,Sydney,Test,Bowler,59,11,180.21,2,7,2,1,5.0,0,31,4,5.06,1,2,0,0,1,0,India,1,Win,259.105,1
+4021,Najmul Hossain Shanto,Bangladesh,India,Lords,Test,Bowler,38,27,164.73,8,5,9,0,4.1,3,45,2,3.45,0,2,0,1,0,0,Bangladesh,0,Draw,215.365,0
+4021,Tamim Iqbal,Bangladesh,India,Lords,T20,Wicketkeeper,113,9,118.16,12,7,11,1,7.0,3,36,3,3.5,1,1,1,0,0,1,India,1,Win,297.08,1
+4021,Mahmudullah,Bangladesh,India,Cape Town,ODI,Batsman,142,60,117.13,3,2,11,1,3.8,3,68,2,9.92,1,1,1,0,0,1,Bangladesh,0,Draw,300.565,1
+4021,Nasum Ahmed,Bangladesh,India,Lords,Test,Wicketkeeper,103,5,107.11,11,6,11,1,4.8,3,14,2,8.72,1,2,2,1,1,1,India,1,Loss,291.555,1
+4021,Taskin Ahmed,Bangladesh,India,Karachi,ODI,Batsman,67,55,62.33,5,2,11,0,5.4,1,50,5,3.28,0,1,1,1,0,1,India,1,Draw,268.16499999999996,1
+4021,Mustafizur Rahman,Bangladesh,India,Cape Town,ODI,Batsman,11,23,54.63,6,9,9,1,3.2,0,41,4,7.55,0,0,1,1,0,1,India,1,Draw,173.315,0
+4021,Litton Das,Bangladesh,India,Mumbai,Test,Allrounder,74,20,119.1,4,3,4,0,5.9,1,64,3,3.49,0,1,1,0,0,1,India,0,Draw,238.55,0
+4021,Mohammed Shami,India,Bangladesh,Cape Town,Test,Bowler,37,79,122.12,7,7,6,0,1.1,4,42,3,6.82,2,0,1,1,1,1,Bangladesh,1,Draw,258.06,1
+4021,Rishabh Pant,India,Bangladesh,Mumbai,ODI,Wicketkeeper,111,58,162.52,4,8,8,0,1.6,0,29,3,9.82,1,2,2,0,1,1,India,0,Draw,307.26,1
+4021,Ravindra Jadeja,India,Bangladesh,Lords,Test,Batsman,41,54,197.8,3,9,9,0,4.9,0,38,0,3.91,1,0,2,0,0,0,India,1,Win,159.9,0
+4021,Kuldeep Yadav,India,Bangladesh,Karachi,ODI,Wicketkeeper,10,22,78.98,12,9,11,0,9.0,1,42,5,9.98,1,0,1,0,1,1,India,1,Win,214.49,0
+4021,Hardik Pandya,India,Bangladesh,Sydney,Test,Wicketkeeper,138,41,74.74,13,5,7,1,2.2,0,64,1,8.94,2,0,2,1,0,0,India,0,Draw,235.37,0
+4021,KL Rahul,India,Bangladesh,Cape Town,Test,Allrounder,35,85,148.01,11,2,4,1,1.8,2,56,4,8.42,2,2,2,1,1,1,Bangladesh,0,Draw,284.005,1
+4021,Jasprit Bumrah,India,Bangladesh,Sydney,Test,Wicketkeeper,79,59,144.64,6,9,7,1,3.5,0,56,3,3.33,1,1,0,1,0,1,Bangladesh,1,Draw,251.32,0
+4021,Surya Kumar Yadav,India,Bangladesh,Cape Town,Test,Bowler,30,85,172.22,2,2,3,1,6.0,0,37,3,5.05,0,1,0,1,0,1,Bangladesh,0,Win,216.11,0
+4021,Shubman Gill,India,Bangladesh,Cape Town,Test,Allrounder,35,54,174.03,1,3,7,1,8.2,0,63,3,8.92,1,0,0,0,0,1,Bangladesh,1,Win,207.015,0
+4021,Virat Kohli,India,Bangladesh,Karachi,ODI,Bowler,124,16,183.73,12,7,11,0,8.7,1,9,0,3.04,0,2,2,0,0,1,India,1,Loss,255.865,1
+4021,Rohit Sharma,India,Bangladesh,Mumbai,T20,Bowler,50,56,84.41,1,1,2,1,7.2,3,16,1,9.99,2,2,2,1,1,1,India,1,Loss,202.20499999999998,0
+4022,Shaheen Afridi,Pakistan,Sri Lanka,Mumbai,T20,Allrounder,103,71,189.57,10,3,7,1,0.8,4,60,2,8.87,2,2,1,1,0,1,Sri Lanka,1,Loss,322.78499999999997,1
+4022,Sarfaraz Ahmed,Pakistan,Sri Lanka,Karachi,T20,Bowler,27,48,101.17,10,5,6,0,0.6,0,13,0,3.39,0,2,0,0,1,0,Sri Lanka,0,Loss,87.58500000000001,0
+4022,Hasan Ali,Pakistan,Sri Lanka,Cape Town,ODI,Bowler,53,94,196.04,1,7,11,1,6.5,2,18,3,4.63,0,2,1,1,1,0,Sri Lanka,0,Loss,281.02,1
+4022,Fakhar Zaman,Pakistan,Sri Lanka,Sydney,T20,Batsman,92,5,170.45,13,8,2,1,5.3,3,28,3,4.79,2,1,2,0,0,1,Sri Lanka,0,Win,312.225,1
+4022,Shadab Khan,Pakistan,Sri Lanka,Karachi,ODI,Allrounder,12,42,174.96,1,1,2,0,9.1,2,67,5,4.53,2,1,1,1,0,0,Sri Lanka,0,Win,269.48,1
+4022,Mohammad Rizwan,Pakistan,Sri Lanka,Mumbai,Test,Bowler,42,74,123.4,12,6,8,0,9.7,4,50,0,6.35,1,1,0,0,1,0,Pakistan,0,Loss,153.7,0
+4022,Haris Rauf,Pakistan,Sri Lanka,Sydney,ODI,Allrounder,76,50,151.98,4,1,3,1,2.1,2,66,0,8.08,1,2,2,0,1,0,Pakistan,1,Loss,201.99,0
+4022,Naseem Shah,Pakistan,Sri Lanka,Cape Town,ODI,Wicketkeeper,120,3,115.31,6,9,11,1,4.9,4,8,5,9.15,2,0,1,1,1,1,Pakistan,0,Draw,387.655,1
+4022,Iftikhar Ahmed,Pakistan,Sri Lanka,Karachi,ODI,Allrounder,9,39,61.52,1,8,6,1,5.8,0,45,3,6.76,0,2,2,1,1,1,Pakistan,0,Win,169.76,0
+4022,Babar Azam,Pakistan,Sri Lanka,Mumbai,Test,Allrounder,57,70,163.55,11,8,9,0,4.1,3,31,2,8.72,1,0,1,1,1,1,Sri Lanka,0,Loss,263.775,1
+4022,Imam-ul-Haq,Pakistan,Sri Lanka,Karachi,Test,Wicketkeeper,51,15,132.5,14,3,11,0,8.7,0,54,3,7.71,0,1,2,1,0,1,Pakistan,1,Win,237.25,0
+4022,Charith Asalanka,Sri Lanka,Pakistan,Cape Town,Test,Bowler,27,79,145.01,6,7,8,1,5.3,0,64,0,6.18,0,0,1,0,1,0,Sri Lanka,0,Draw,119.505,0
+4022,Maheesh Theekshana,Sri Lanka,Pakistan,Karachi,ODI,Wicketkeeper,144,31,92.69,6,8,6,0,2.7,1,17,0,6.57,1,2,2,0,0,0,Pakistan,0,Draw,220.345,0
+4022,Lahiru Kumara,Sri Lanka,Pakistan,Mumbai,ODI,Wicketkeeper,102,47,171.07,1,2,3,1,8.1,0,57,0,4.78,2,2,2,1,0,0,Pakistan,0,Draw,222.535,0
+4022,Wanindu Hasaranga,Sri Lanka,Pakistan,Karachi,Test,Bowler,111,69,92.54,6,9,10,0,2.3,4,46,3,8.96,2,1,0,1,1,0,Pakistan,1,Draw,297.27,1
+4022,Dhananjaya de Silva,Sri Lanka,Pakistan,Sydney,Test,Batsman,97,49,142.89,4,7,11,0,2.8,1,48,5,6.29,2,2,0,0,1,0,Pakistan,0,Draw,313.445,1
+4022,Angelo Mathews,Sri Lanka,Pakistan,Lords,T20,Batsman,95,96,57.35,13,1,7,0,9.6,2,41,1,8.09,1,1,2,1,0,0,Pakistan,1,Draw,203.675,0
+4022,Dasun Shanaka,Sri Lanka,Pakistan,Cape Town,T20,Batsman,129,99,97.24,3,5,7,1,3.8,0,1,4,7.37,0,2,1,1,1,1,Pakistan,0,Loss,322.62,1
+4022,Kasun Rajitha,Sri Lanka,Pakistan,Karachi,ODI,Wicketkeeper,114,79,190.91,8,4,7,0,7.8,3,49,3,9.85,0,1,2,0,1,1,Sri Lanka,0,Draw,354.455,1
+4022,Dimuth Karunaratne,Sri Lanka,Pakistan,Cape Town,Test,Allrounder,132,30,154.72,14,6,3,0,2.2,1,59,3,4.66,2,2,2,0,0,1,Sri Lanka,1,Loss,324.36,1
+4022,Pathum Nissanka,Sri Lanka,Pakistan,Sydney,ODI,Bowler,87,59,55.99,8,6,3,0,6.6,1,57,1,8.96,1,0,1,1,1,0,Sri Lanka,0,Loss,184.995,0
+4022,Kusal Mendis,Sri Lanka,Pakistan,Sydney,ODI,Batsman,44,71,181.59,3,1,7,0,0.9,3,55,1,7.63,1,2,2,0,1,1,Pakistan,1,Win,229.79500000000002,0
+4023,Cameron Green,Australia,Sri Lanka,Cape Town,ODI,Wicketkeeper,61,55,184.08,3,3,10,0,8.2,1,51,2,9.5,2,0,0,0,1,0,Australia,1,Loss,223.04000000000002,0
+4023,Pat Cummins,Australia,Sri Lanka,Sydney,Test,Batsman,73,79,97.91,3,3,8,0,7.3,0,69,5,3.76,1,0,0,1,0,0,Sri Lanka,0,Loss,261.955,1
+4023,Adam Zampa,Australia,Sri Lanka,Mumbai,Test,Batsman,39,7,116.72,8,0,6,1,1.1,2,68,5,4.51,0,1,2,0,0,0,Sri Lanka,1,Loss,262.36,1
+4023,Marnus Labuschagne,Australia,Sri Lanka,Sydney,ODI,Wicketkeeper,107,41,74.13,13,8,4,1,4.3,4,12,0,9.93,2,1,0,1,1,0,Sri Lanka,1,Win,209.065,0
+4023,Glenn Maxwell,Australia,Sri Lanka,Karachi,ODI,Bowler,47,74,171.87,14,8,6,1,0.0,2,6,0,8.76,2,0,0,1,1,0,Australia,1,Win,177.935,0
+4023,Steve Smith,Australia,Sri Lanka,Lords,ODI,Batsman,36,60,115.59,13,8,10,0,6.2,3,63,0,3.12,0,0,0,0,0,0,Australia,1,Draw,123.795,0
+4023,David Warner,Australia,Sri Lanka,Mumbai,Test,Allrounder,91,83,95.09,1,8,7,1,7.5,4,50,1,7.42,0,0,0,0,1,0,Australia,1,Draw,213.54500000000002,0
+4023,Marcus Stoinis,Australia,Sri Lanka,Cape Town,ODI,Allrounder,59,94,158.98,2,3,2,1,3.5,1,50,2,5.52,2,0,2,1,0,1,Australia,1,Draw,243.49,0
+4023,Josh Hazlewood,Australia,Sri Lanka,Mumbai,T20,Wicketkeeper,94,35,68.0,7,5,4,0,1.7,1,6,2,5.32,2,2,0,1,1,1,Sri Lanka,0,Win,223.0,0
+4023,Mitchell Starc,Australia,Sri Lanka,Sydney,T20,Allrounder,111,97,154.59,5,8,10,0,0.5,2,34,5,7.18,1,2,0,0,0,0,Sri Lanka,1,Loss,333.295,1
+4023,Alex Carey,Australia,Sri Lanka,Karachi,Test,Allrounder,101,30,125.86,14,3,3,1,7.1,2,53,2,7.31,2,1,2,0,1,0,Sri Lanka,1,Loss,263.93,1
+4023,Charith Asalanka,Sri Lanka,Australia,Mumbai,Test,Batsman,146,82,187.28,8,7,10,0,6.7,2,50,4,4.9,2,1,0,0,0,0,Sri Lanka,1,Loss,359.64,1
+4023,Kasun Rajitha,Sri Lanka,Australia,Cape Town,ODI,Batsman,76,48,157.98,2,2,3,1,3.7,1,50,1,7.76,2,1,2,1,1,0,Sri Lanka,0,Win,234.99,0
+4023,Maheesh Theekshana,Sri Lanka,Australia,Cape Town,T20,Wicketkeeper,114,88,60.4,0,3,7,0,1.5,4,15,5,4.99,1,0,2,1,1,0,Sri Lanka,1,Loss,354.2,1
+4023,Dhananjaya de Silva,Sri Lanka,Australia,Cape Town,ODI,Wicketkeeper,85,39,106.6,4,4,1,1,4.5,0,12,5,4.01,2,2,2,0,0,0,Sri Lanka,1,Loss,283.3,1
+4023,Dasun Shanaka,Sri Lanka,Australia,Sydney,Test,Allrounder,30,62,142.1,11,6,1,1,9.2,1,7,5,6.93,1,2,1,0,0,0,Australia,1,Win,246.05,1
+4023,Kusal Mendis,Sri Lanka,Australia,Sydney,ODI,Bowler,106,96,171.6,12,0,1,0,0.2,4,22,3,8.43,1,1,0,1,0,1,Sri Lanka,0,Loss,331.8,1
+4023,Dimuth Karunaratne,Sri Lanka,Australia,Mumbai,Test,Wicketkeeper,29,71,125.87,1,2,7,0,4.9,0,33,1,7.16,1,2,1,1,1,0,Sri Lanka,0,Draw,151.935,0
+4023,Wanindu Hasaranga,Sri Lanka,Australia,Sydney,T20,Wicketkeeper,7,90,171.48,1,0,4,1,7.5,2,49,4,4.24,2,2,0,1,1,0,Sri Lanka,1,Draw,237.74,0
+4023,Lahiru Kumara,Sri Lanka,Australia,Sydney,Test,Bowler,51,33,104.37,6,6,9,1,7.5,0,29,3,5.27,1,1,2,1,0,0,Australia,1,Loss,213.185,0
+4023,Pathum Nissanka,Sri Lanka,Australia,Sydney,ODI,Wicketkeeper,71,2,142.29,1,1,2,1,2.0,3,30,4,9.13,1,0,1,0,0,1,Australia,0,Win,292.145,1
+4023,Angelo Mathews,Sri Lanka,Australia,Sydney,T20,Bowler,123,15,158.85,11,9,11,0,7.7,1,37,0,5.77,0,2,1,1,1,0,Sri Lanka,1,Win,247.425,1
+4024,Mitchell Starc,Australia,Pakistan,Cape Town,Test,Batsman,61,87,124.79,11,6,3,1,4.0,1,60,2,7.37,0,2,1,1,1,1,Pakistan,0,Loss,228.395,0
+4024,Glenn Maxwell,Australia,Pakistan,Sydney,ODI,Batsman,128,56,122.3,10,1,8,1,1.9,4,15,3,4.85,1,2,0,0,0,1,Australia,0,Draw,314.15,1
+4024,Alex Carey,Australia,Pakistan,Mumbai,T20,Bowler,45,21,154.01,4,0,2,1,6.0,0,43,3,7.88,0,1,2,1,1,0,Pakistan,1,Loss,242.005,0
+4024,Pat Cummins,Australia,Pakistan,Sydney,T20,Bowler,36,52,73.26,0,5,10,0,2.3,2,4,5,8.21,0,1,0,1,0,0,Australia,0,Win,232.63,0
+4024,Steve Smith,Australia,Pakistan,Lords,Test,Batsman,92,49,54.52,4,9,1,1,3.7,2,3,5,4.88,1,0,0,1,1,0,Pakistan,1,Loss,289.26,1
+4024,Josh Hazlewood,Australia,Pakistan,Lords,ODI,Allrounder,15,28,158.19,5,7,6,0,5.0,4,34,3,8.59,2,0,2,1,0,0,Pakistan,1,Loss,244.095,1
+4024,Marcus Stoinis,Australia,Pakistan,Cape Town,T20,Allrounder,84,68,167.55,4,5,1,1,4.4,3,31,2,8.42,2,0,0,1,0,0,Australia,1,Loss,262.775,1
+4024,Cameron Green,Australia,Pakistan,Mumbai,Test,Bowler,107,8,102.36,9,2,11,0,0.8,2,47,4,5.78,0,1,1,1,1,1,Australia,1,Draw,323.18,1
+4024,Marnus Labuschagne,Australia,Pakistan,Cape Town,ODI,Bowler,71,97,97.62,5,1,9,0,9.9,1,18,1,4.95,1,1,2,0,1,1,Pakistan,1,Draw,194.81,0
+4024,Adam Zampa,Australia,Pakistan,Cape Town,Test,Batsman,31,19,190.11,7,0,8,1,9.0,0,47,1,8.47,2,1,2,0,1,0,Pakistan,0,Win,181.055,0
+4024,David Warner,Australia,Pakistan,Sydney,T20,Batsman,83,97,112.62,9,6,8,1,9.4,0,52,4,5.09,1,2,0,0,1,0,Australia,1,Draw,249.31,1
+4024,Shadab Khan,Pakistan,Australia,Cape Town,ODI,Batsman,6,75,194.19,14,2,6,0,1.0,4,56,2,3.15,2,1,0,1,1,0,Australia,0,Loss,218.095,0
+4024,Sarfaraz Ahmed,Pakistan,Australia,Lords,ODI,Wicketkeeper,46,3,183.83,3,5,2,1,8.7,2,1,3,6.0,0,0,0,1,1,1,Pakistan,1,Draw,267.915,1
+4024,Shaheen Afridi,Pakistan,Australia,Cape Town,Test,Wicketkeeper,59,36,89.87,5,0,2,0,4.8,4,16,1,8.95,1,0,2,0,1,1,Australia,1,Draw,208.935,0
+4024,Babar Azam,Pakistan,Australia,Mumbai,Test,Bowler,43,12,75.91,8,1,8,1,6.3,4,4,3,7.69,1,1,0,0,0,0,Pakistan,0,Win,195.95499999999998,0
+4024,Naseem Shah,Pakistan,Australia,Karachi,T20,Bowler,49,14,134.18,9,1,4,1,7.0,3,10,1,9.69,2,1,0,1,0,0,Pakistan,1,Win,186.09,0
+4024,Hasan Ali,Pakistan,Australia,Lords,ODI,Allrounder,80,62,189.61,8,7,7,0,8.5,0,14,0,4.72,0,1,2,1,0,1,Australia,1,Win,219.805,0
+4024,Fakhar Zaman,Pakistan,Australia,Lords,T20,Wicketkeeper,132,49,178.55,4,4,7,1,1.1,1,41,4,4.76,1,0,1,1,1,1,Australia,0,Win,376.275,1
+4024,Iftikhar Ahmed,Pakistan,Australia,Mumbai,ODI,Batsman,56,5,191.4,2,3,4,1,8.8,3,2,0,8.47,2,0,0,0,1,0,Pakistan,0,Loss,191.7,0
+4024,Imam-ul-Haq,Pakistan,Australia,Mumbai,ODI,Allrounder,139,18,54.16,9,1,8,0,7.3,1,15,4,8.13,0,0,1,1,0,1,Pakistan,0,Draw,311.08,1
+4024,Haris Rauf,Pakistan,Australia,Karachi,Test,Wicketkeeper,111,13,87.6,11,9,9,0,7.8,3,25,3,3.81,1,1,1,0,0,0,Australia,1,Win,269.8,1
+4024,Mohammad Rizwan,Pakistan,Australia,Karachi,T20,Batsman,60,18,167.76,8,8,9,0,4.8,3,10,4,7.43,0,2,0,0,0,1,Pakistan,0,Draw,283.88,1
